@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block body %}
+
+<div class="ui inverted segment" style="margin-bottom: 0px;">
+
+  <img src="/static/logo2.png"/ style="height:50px;position:absolute;top:5%">
+  <form class="ui inverted transparent icon input" style="margin-left: 200px;width: 500px;" id="createVFlipForm" enctype="multipart/form-data">
+    <input type="text" readonly="readonly" placeholder="选择一个视频文件..." >
+    <input type="file" name="uploadImg" id="uploadImg" style="visibility:hidden;" />
+    <a type="file" class="ui black small button" id="uploadButton" >
+    <i class="cloud upload icon"></i>     
+    </a>
+  </form>
+  <script language="JavaScript">        
+	$('#uploadButton').click(function(){
+            $('#uploadImg').trigger('click');
+            return false;
+        });
+ 
+     
+        $('#uploadImg').change(function(){
+            var formData = new FormData($('#createVFlipForm')[0]);
+            $.ajax({
+                url: "/upload",
+                type: 'POST',
+                success: function(){
+                    alert('上传成功');
+		    location.reload(true) 
+                },
+ 
+                data: formData,
+                cache: false,
+                contentType: false,
+                processData: false
+            });
+        });
+  </script>
+
+  <a type="file" class="ui black small button" id="uploadButton" style="float:right;"  href="/logout">
+    <i class="sign out icon"></i>     
+  </a>
+  <span style="float:right;margin-right: 20px;margin-top: 5px;">{{data.user}}</span>
+  <img src="/static/photo.jpg"/ style="float:right;height:30px;margin-right: 20px;">
+</div>
+  <div>
+    <table class="ui celled table">
+    <tr align="center">
+      <th>Id</th>
+      <th>User</th>
+      <th>Time</th>
+      <th>filename</th>
+      <th>Download</th>
+    </tr>
+    <tbody>
+    {% for res in data.res %}
+    {% if res[4] == 0 %}
+    <tr class="negative" align="center">  
+    {% else%}
+    <tr class="positive" align="center">
+    {% endif %}
+    <td>{{ res[0] }}</td>
+    <td>{{ res[1] }}</td>
+    <td>{{ res[2] }}</td>
+    <td>{{ res[3] }}</td>
+    <td>
+	{% if res[4] == 0 %}
+	    <div class="ui active centered small inline loader"></div>
+	{% else%}
+		<a class="ui white small button" style="background:none;height:22px" href="/static/upload/{{ res[3] }}">
+		<i class="cloud download icon" style=" text-align: center;margin-right: 0px;margin-left: 0px;"></i>
+		</a>
+	{% endif %}
+    </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+    </table>
+  </thead>	
+  </thead>
+  </div>
+
+
+{% endblock %}

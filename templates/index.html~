@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block body %}
+<link rel="stylesheet" media="screen" href="static/css/style.css">
+<div id="main" style="margin:0 auto;text-align:center;">
+
+<div style="position:realtive">
+<div style="position:absolute;top:50%;left:50%;margin-top:-200px;margin-left:-180px;">
+    <div style="text-align:center;"><img src="/static/logo2.png"/></div>
+    <h2 style=" text-align: center;color:white;height: 70px;margin-top: 40px;font-size: 18px;">洞察天机, 提供视频天气识别服务</h2>
+    <form class="ui form" style="width: 350px; height: 150px; margin:0 auto;" action="/login" method="post">
+      <div class="field">
+        
+        <input type="text" name="username" placeholder="账户" required>
+      </div>
+      <div class="field">     
+        <input type="password" name="password" placeholder="密码" required>
+      </div>
+
+
+      <button class="ui button" type="submit" style="width: 350px; height: 37px;">登陆</button>
+
+
+
+
+    </form>
+  
+    {% if error %}
+    	<div class="ui warning message">
+  		<i class="close icon"></i>
+    		<div class="header">
+    		{{ error }}
+  		</div>
+   	 </div>
+    {% endif %}
+
+</div>
+</div>
+
+<!-- particles.js container -->
+<div id="particles-js" style="z-index:-1;"></div>
+
+<!-- scripts -->
+<script src="static/particles.js"></script>
+<script src="static/js/app.js"></script>
+
+<!-- stats.js -->
+<script src="static/js/lib/stats.js"></script>
+
+
+
+</div>
+{% endblock %}
+
+

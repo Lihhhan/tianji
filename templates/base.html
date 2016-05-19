@@ -1,0 +1,12 @@
+<!doctype html>
+<title>天机</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="static/semantic/dist/semantic.css">
+<script src="static/semantic/dist/semantic.min.js"></script>
+
+{% for message in get_flashed_messages() %}
+    <div class="flash">{{ message }}</div>
+{% endfor %}
+
+{% block body %}{% endblock %}
+
