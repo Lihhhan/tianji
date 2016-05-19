@@ -1,0 +1,1382 @@
+Wed, 04 May 2016 12:36:13 train.py[line:15] INFO train start ...
+Wed, 04 May 2016 12:36:13 train.py[line:35] INFO get features : ./images/0/134.jpeg
+Wed, 04 May 2016 12:36:16 train.py[line:15] INFO train start ...
+Wed, 04 May 2016 12:36:16 train.py[line:35] INFO get features : ./images/0/134.jpeg
+Wed, 04 May 2016 12:36:25 train.py[line:35] INFO get features : ./images/0/186.jpeg
+Wed, 04 May 2016 12:36:33 train.py[line:35] INFO get features : ./images/0/187.jpeg
+Wed, 04 May 2016 12:36:41 train.py[line:35] INFO get features : ./images/0/288.jpeg
+Wed, 04 May 2016 12:36:50 train.py[line:35] INFO get features : ./images/0/27s4.jpeg
+Wed, 04 May 2016 12:36:58 train.py[line:35] INFO get features : ./images/0/37.jpeg
+Wed, 04 May 2016 12:37:07 train.py[line:35] INFO get features : ./images/0/290.jpeg
+Wed, 04 May 2016 12:37:15 train.py[line:35] INFO get features : ./images/0/31.jpeg
+Wed, 04 May 2016 12:37:24 train.py[line:35] INFO get features : ./images/0/215.jpeg
+Wed, 04 May 2016 12:37:32 train.py[line:35] INFO get features : ./images/0/242.jpeg
+Wed, 04 May 2016 12:37:41 train.py[line:35] INFO get features : ./images/0/20s0.jpeg
+Wed, 04 May 2016 12:37:50 train.py[line:35] INFO get features : ./images/0/164.jpeg
+Wed, 04 May 2016 12:37:59 train.py[line:35] INFO get features : ./images/0/244.jpeg
+Wed, 04 May 2016 12:38:08 train.py[line:35] INFO get features : ./images/0/157.jpeg
+Wed, 04 May 2016 12:38:17 train.py[line:35] INFO get features : ./images/0/248.jpeg
+Wed, 04 May 2016 12:38:25 train.py[line:35] INFO get features : ./images/0/101.jpeg
+Wed, 04 May 2016 12:38:34 train.py[line:35] INFO get features : ./images/0/226.jpeg
+Wed, 04 May 2016 12:38:43 train.py[line:35] INFO get features : ./images/0/92.jpeg
+Wed, 04 May 2016 12:38:52 train.py[line:35] INFO get features : ./images/0/109.jpeg
+Wed, 04 May 2016 12:39:01 train.py[line:35] INFO get features : ./images/0/36.jpeg
+Wed, 04 May 2016 12:39:10 train.py[line:35] INFO get features : ./images/0/127.jpeg
+Wed, 04 May 2016 12:39:20 train.py[line:35] INFO get features : ./images/0/23.jpeg
+Wed, 04 May 2016 12:39:30 train.py[line:35] INFO get features : ./images/0/212.jpeg
+Wed, 04 May 2016 12:39:39 train.py[line:35] INFO get features : ./images/0/285.jpeg
+Wed, 04 May 2016 12:39:48 train.py[line:35] INFO get features : ./images/0/108.jpeg
+Wed, 04 May 2016 12:39:57 train.py[line:35] INFO get features : ./images/0/129.jpeg
+Wed, 04 May 2016 12:40:06 train.py[line:35] INFO get features : ./images/0/289.jpeg
+Wed, 04 May 2016 12:40:15 train.py[line:35] INFO get features : ./images/0/189.jpeg
+Wed, 04 May 2016 12:40:24 train.py[line:35] INFO get features : ./images/0/27.jpeg
+Wed, 04 May 2016 12:40:33 train.py[line:35] INFO get features : ./images/0/251.jpeg
+Wed, 04 May 2016 12:40:42 train.py[line:35] INFO get features : ./images/0/32.jpeg
+Wed, 04 May 2016 12:40:51 train.py[line:35] INFO get features : ./images/0/253.jpeg
+Wed, 04 May 2016 12:41:00 train.py[line:35] INFO get features : ./images/0/196.jpeg
+Wed, 04 May 2016 12:41:10 train.py[line:35] INFO get features : ./images/0/213.jpeg
+Wed, 04 May 2016 12:41:18 train.py[line:35] INFO get features : ./images/0/197.jpeg
+Wed, 04 May 2016 12:41:27 train.py[line:35] INFO get features : ./images/0/158.jpeg
+Wed, 04 May 2016 12:41:36 train.py[line:35] INFO get features : ./images/0/165.jpeg
+Wed, 04 May 2016 12:41:44 train.py[line:35] INFO get features : ./images/0/167.jpeg
+Wed, 04 May 2016 12:41:53 train.py[line:35] INFO get features : ./images/0/39.jpeg
+Wed, 04 May 2016 12:42:01 train.py[line:35] INFO get features : ./images/0/123.jpeg
+Wed, 04 May 2016 12:42:09 train.py[line:35] INFO get features : ./images/0/273.jpeg
+Wed, 04 May 2016 12:42:18 train.py[line:35] INFO get features : ./images/0/218.jpeg
+Wed, 04 May 2016 12:42:26 train.py[line:35] INFO get features : ./images/0/169.jpeg
+Wed, 04 May 2016 12:42:34 train.py[line:35] INFO get features : ./images/0/23s5.jpeg
+Wed, 04 May 2016 12:42:43 train.py[line:35] INFO get features : ./images/0/35.jpeg
+Wed, 04 May 2016 12:42:51 train.py[line:35] INFO get features : ./images/0/222.jpeg
+Wed, 04 May 2016 12:43:00 train.py[line:35] INFO get features : ./images/0/132.jpeg
+Wed, 04 May 2016 12:43:08 train.py[line:35] INFO get features : ./images/0/136.jpeg
+Wed, 04 May 2016 12:43:17 train.py[line:35] INFO get features : ./images/0/160.jpeg
+Wed, 04 May 2016 12:43:25 train.py[line:35] INFO get features : ./images/0/121.jpeg
+Wed, 04 May 2016 12:43:34 train.py[line:35] INFO get features : ./images/0/210.jpeg
+Wed, 04 May 2016 12:43:42 train.py[line:35] INFO get features : ./images/0/99.jpeg
+Wed, 04 May 2016 12:43:50 train.py[line:35] INFO get features : ./images/0/263.jpeg
+Wed, 04 May 2016 12:44:00 train.py[line:35] INFO get features : ./images/0/163.jpeg
+Wed, 04 May 2016 12:44:10 train.py[line:35] INFO get features : ./images/0/256.jpeg
+Wed, 04 May 2016 12:44:19 train.py[line:35] INFO get features : ./images/0/28.jpeg
+Wed, 04 May 2016 12:44:28 train.py[line:35] INFO get features : ./images/0/236.jpeg
+Wed, 04 May 2016 12:44:38 train.py[line:35] INFO get features : ./images/0/221.jpeg
+Wed, 04 May 2016 12:44:47 train.py[line:35] INFO get features : ./images/0/191.jpeg
+Wed, 04 May 2016 12:44:56 train.py[line:35] INFO get features : ./images/0/235.jpeg
+Wed, 04 May 2016 12:45:06 train.py[line:35] INFO get features : ./images/0/111.jpeg
+Wed, 04 May 2016 12:45:15 train.py[line:35] INFO get features : ./images/0/278.jpeg
+Wed, 04 May 2016 12:45:24 train.py[line:35] INFO get features : ./images/0/41.jpeg
+Wed, 04 May 2016 12:45:33 train.py[line:35] INFO get features : ./images/0/192.jpeg
+Wed, 04 May 2016 12:45:43 train.py[line:35] INFO get features : ./images/0/42.jpeg
+Wed, 04 May 2016 12:45:52 train.py[line:35] INFO get features : ./images/0/224.jpeg
+Wed, 04 May 2016 12:46:01 train.py[line:35] INFO get features : ./images/0/40.jpeg
+Wed, 04 May 2016 12:46:10 train.py[line:35] INFO get features : ./images/0/185.jpeg
+Wed, 04 May 2016 12:46:20 train.py[line:35] INFO get features : ./images/0/29.jpeg
+Wed, 04 May 2016 12:46:29 train.py[line:35] INFO get features : ./images/0/199.jpeg
+Wed, 04 May 2016 12:46:38 train.py[line:35] INFO get features : ./images/0/125.jpeg
+Wed, 04 May 2016 12:46:47 train.py[line:35] INFO get features : ./images/0/168.jpeg
+Wed, 04 May 2016 12:46:57 train.py[line:35] INFO get features : ./images/0/198.jpeg
+Wed, 04 May 2016 12:47:06 train.py[line:35] INFO get features : ./images/0/274.jpeg
+Wed, 04 May 2016 12:47:15 train.py[line:35] INFO get features : ./images/0/30.jpeg
+Wed, 04 May 2016 12:47:24 train.py[line:35] INFO get features : ./images/0/27s2.jpeg
+Wed, 04 May 2016 12:47:32 train.py[line:35] INFO get features : ./images/0/223.jpeg
+Wed, 04 May 2016 12:47:41 train.py[line:35] INFO get features : ./images/0/217.jpeg
+Wed, 04 May 2016 12:47:50 train.py[line:35] INFO get features : ./images/0/126.jpeg
+Wed, 04 May 2016 12:47:59 train.py[line:35] INFO get features : ./images/0/193.jpeg
+Wed, 04 May 2016 12:48:08 train.py[line:35] INFO get features : ./images/0/200.jpeg
+Wed, 04 May 2016 12:48:16 train.py[line:35] INFO get features : ./images/0/276.jpeg
+Wed, 04 May 2016 12:48:25 train.py[line:35] INFO get features : ./images/0/287.jpeg
+Wed, 04 May 2016 12:48:34 train.py[line:35] INFO get features : ./images/0/183.jpeg
+Wed, 04 May 2016 12:48:43 train.py[line:35] INFO get features : ./images/0/38.jpeg
+Wed, 04 May 2016 12:48:52 train.py[line:35] INFO get features : ./images/0/272.jpeg
+Wed, 04 May 2016 12:49:00 train.py[line:35] INFO get features : ./images/0/17.jpeg
+Wed, 04 May 2016 12:49:09 train.py[line:35] INFO get features : ./images/0/34.jpeg
+Wed, 04 May 2016 12:49:18 train.py[line:35] INFO get features : ./images/0/195.jpeg
+Wed, 04 May 2016 12:49:28 train.py[line:35] INFO get features : ./images/0/282.jpeg
+Wed, 04 May 2016 12:49:38 train.py[line:35] INFO get features : ./images/0/188.jpeg
+Wed, 04 May 2016 12:49:48 train.py[line:35] INFO get features : ./images/0/107.jpeg
+Wed, 04 May 2016 12:49:58 train.py[line:35] INFO get features : ./images/0/116.jpeg
+Wed, 04 May 2016 12:50:07 train.py[line:35] INFO get features : ./images/0/250.jpeg
+Wed, 04 May 2016 12:50:17 train.py[line:35] INFO get features : ./images/0/267.jpeg
+Wed, 04 May 2016 12:50:26 train.py[line:35] INFO get features : ./images/0/119.jpeg
+Wed, 04 May 2016 12:50:34 train.py[line:35] INFO get features : ./images/0/110.jpeg
+Wed, 04 May 2016 12:50:43 train.py[line:35] INFO get features : ./images/0/240.jpeg
+Wed, 04 May 2016 12:50:51 train.py[line:35] INFO get features : ./images/0/237.jpeg
+Wed, 04 May 2016 12:51:00 train.py[line:35] INFO get features : ./images/0/100.jpeg
+Wed, 04 May 2016 12:51:08 train.py[line:35] INFO get features : ./images/0/117.jpeg
+Wed, 04 May 2016 12:51:17 train.py[line:35] INFO get features : ./images/1/178.jpeg
+Wed, 04 May 2016 12:51:25 train.py[line:35] INFO get features : ./images/1/186.jpeg
+Wed, 04 May 2016 12:51:34 train.py[line:35] INFO get features : ./images/1/187.jpeg
+Wed, 04 May 2016 12:51:42 train.py[line:35] INFO get features : ./images/1/283.jpeg
+Wed, 04 May 2016 12:51:51 train.py[line:35] INFO get features : ./images/1/209.jpeg
+Wed, 04 May 2016 12:51:59 train.py[line:35] INFO get features : ./images/1/31.jpeg
+Wed, 04 May 2016 12:52:08 train.py[line:35] INFO get features : ./images/1/203.jpeg
+Wed, 04 May 2016 12:52:16 train.py[line:35] INFO get features : ./images/1/257.jpeg
+Wed, 04 May 2016 12:52:24 train.py[line:35] INFO get features : ./images/1/12.jpg
+Wed, 04 May 2016 12:52:33 train.py[line:35] INFO get features : ./images/1/244.jpeg
+Wed, 04 May 2016 12:52:41 train.py[line:35] INFO get features : ./images/1/248.jpeg
+Wed, 04 May 2016 12:52:50 train.py[line:35] INFO get features : ./images/1/25.jpeg
+Wed, 04 May 2016 12:52:58 train.py[line:35] INFO get features : ./images/1/298.jpeg
+Wed, 04 May 2016 12:53:07 train.py[line:35] INFO get features : ./images/1/fog1.jpg
+Wed, 04 May 2016 12:53:15 train.py[line:35] INFO get features : ./images/1/23.jpeg
+Wed, 04 May 2016 12:53:24 train.py[line:35] INFO get features : ./images/1/270.jpeg
+Wed, 04 May 2016 12:53:32 train.py[line:35] INFO get features : ./images/1/181.jpeg
+Wed, 04 May 2016 12:53:41 train.py[line:35] INFO get features : ./images/1/271.jpeg
+Wed, 04 May 2016 12:53:49 train.py[line:35] INFO get features : ./images/1/175.jpeg
+Wed, 04 May 2016 12:53:57 train.py[line:35] INFO get features : ./images/1/279.jpeg
+Wed, 04 May 2016 12:54:06 train.py[line:35] INFO get features : ./images/1/189.jpeg
+Wed, 04 May 2016 12:54:15 train.py[line:35] INFO get features : ./images/1/269.jpeg
+Wed, 04 May 2016 12:54:24 train.py[line:35] INFO get features : ./images/1/251.jpeg
+Wed, 04 May 2016 12:54:33 train.py[line:35] INFO get features : ./images/1/32.jpeg
+Wed, 04 May 2016 12:54:41 train.py[line:35] INFO get features : ./images/1/21.jpeg
+Wed, 04 May 2016 12:54:49 train.py[line:35] INFO get features : ./images/1/fog16.jpg
+Wed, 04 May 2016 12:54:58 train.py[line:35] INFO get features : ./images/1/5.jpg
+Wed, 04 May 2016 12:55:06 train.py[line:35] INFO get features : ./images/1/281.jpeg
+Wed, 04 May 2016 12:55:14 train.py[line:35] INFO get features : ./images/1/253.jpeg
+Wed, 04 May 2016 12:55:23 train.py[line:35] INFO get features : ./images/1/196.jpeg
+Wed, 04 May 2016 12:55:31 train.py[line:35] INFO get features : ./images/1/275.jpeg
+Wed, 04 May 2016 12:55:40 train.py[line:35] INFO get features : ./images/1/fog2.jpg
+Wed, 04 May 2016 12:55:48 train.py[line:35] INFO get features : ./images/1/11.jpg
+Wed, 04 May 2016 12:55:56 train.py[line:35] INFO get features : ./images/1/184.jpeg
+Wed, 04 May 2016 12:56:05 train.py[line:35] INFO get features : ./images/1/194.jpeg
+Wed, 04 May 2016 12:56:13 train.py[line:35] INFO get features : ./images/1/225.jpeg
+Wed, 04 May 2016 12:56:21 train.py[line:35] INFO get features : ./images/1/10.jpeg
+Wed, 04 May 2016 12:56:29 train.py[line:35] INFO get features : ./images/1/fog9.jpg
+Wed, 04 May 2016 12:56:38 train.py[line:35] INFO get features : ./images/1/177.jpeg
+Wed, 04 May 2016 12:56:46 train.py[line:35] INFO get features : ./images/1/277.jpeg
+Wed, 04 May 2016 12:56:54 train.py[line:35] INFO get features : ./images/1/273.jpeg
+Wed, 04 May 2016 12:57:03 train.py[line:35] INFO get features : ./images/1/fog10.jpg
+Wed, 04 May 2016 12:57:11 train.py[line:35] INFO get features : ./images/1/24.jpeg
+Wed, 04 May 2016 12:57:19 train.py[line:35] INFO get features : ./images/1/28.jpeg
+Wed, 04 May 2016 12:57:28 train.py[line:35] INFO get features : ./images/1/174.jpeg
+Wed, 04 May 2016 12:57:36 train.py[line:35] INFO get features : ./images/1/236.jpeg
+Wed, 04 May 2016 12:57:44 train.py[line:35] INFO get features : ./images/1/19.jpeg
+Wed, 04 May 2016 12:57:53 train.py[line:35] INFO get features : ./images/1/fog17.jpg
+Wed, 04 May 2016 12:58:01 train.py[line:35] INFO get features : ./images/1/191.jpeg
+Wed, 04 May 2016 12:58:09 train.py[line:35] INFO get features : ./images/1/10.jpg
+Wed, 04 May 2016 12:58:18 train.py[line:35] INFO get features : ./images/1/235.jpeg
+Wed, 04 May 2016 12:58:26 train.py[line:35] INFO get features : ./images/1/9.jpeg
+Wed, 04 May 2016 12:58:34 train.py[line:35] INFO get features : ./images/1/192.jpeg
+Wed, 04 May 2016 12:58:43 train.py[line:35] INFO get features : ./images/1/261.jpeg
+Wed, 04 May 2016 12:58:51 train.py[line:35] INFO get features : ./images/1/224.jpeg
+Wed, 04 May 2016 12:58:59 train.py[line:35] INFO get features : ./images/1/6.jpg
+Wed, 04 May 2016 12:59:08 train.py[line:35] INFO get features : ./images/1/18.jpeg
+Wed, 04 May 2016 12:59:16 train.py[line:35] INFO get features : ./images/1/255.jpeg
+Wed, 04 May 2016 12:59:24 train.py[line:35] INFO get features : ./images/1/185.jpeg
+Wed, 04 May 2016 12:59:32 train.py[line:35] INFO get features : ./images/1/201.jpeg
+Wed, 04 May 2016 12:59:43 train.py[line:35] INFO get features : ./images/1/16.jpeg
+Wed, 04 May 2016 12:59:51 train.py[line:35] INFO get features : ./images/1/29.jpeg
+Wed, 04 May 2016 13:00:00 train.py[line:35] INFO get features : ./images/1/208.jpeg
+Wed, 04 May 2016 13:00:08 train.py[line:35] INFO get features : ./images/1/199.jpeg
+Wed, 04 May 2016 13:00:16 train.py[line:35] INFO get features : ./images/1/9.jpg
+Wed, 04 May 2016 13:00:25 train.py[line:35] INFO get features : ./images/1/268.jpeg
+Wed, 04 May 2016 13:00:33 train.py[line:35] INFO get features : ./images/1/274.jpeg
+Wed, 04 May 2016 13:00:41 train.py[line:35] INFO get features : ./images/1/280.jpeg
+Wed, 04 May 2016 13:00:50 train.py[line:35] INFO get features : ./images/1/11.jpeg
+Wed, 04 May 2016 13:00:58 train.py[line:35] INFO get features : ./images/1/180.jpeg
+Wed, 04 May 2016 13:01:06 train.py[line:35] INFO get features : ./images/1/30.jpeg
+Wed, 04 May 2016 13:01:15 train.py[line:35] INFO get features : ./images/1/8.jpg
+Wed, 04 May 2016 13:01:23 train.py[line:35] INFO get features : ./images/1/20.jpeg
+Wed, 04 May 2016 13:01:31 train.py[line:35] INFO get features : ./images/1/246.jpeg
+Wed, 04 May 2016 13:01:40 train.py[line:35] INFO get features : ./images/1/7.jpg
+Wed, 04 May 2016 13:01:48 train.py[line:35] INFO get features : ./images/1/299.jpeg
+Wed, 04 May 2016 13:01:56 train.py[line:35] INFO get features : ./images/1/179.jpeg
+Wed, 04 May 2016 13:02:05 train.py[line:35] INFO get features : ./images/1/207.jpeg
+Wed, 04 May 2016 13:02:13 train.py[line:35] INFO get features : ./images/1/292.jpeg
+Wed, 04 May 2016 13:02:21 train.py[line:35] INFO get features : ./images/1/262.jpeg
+Wed, 04 May 2016 13:02:30 train.py[line:35] INFO get features : ./images/1/291.jpeg
+Wed, 04 May 2016 13:02:38 train.py[line:35] INFO get features : ./images/1/272.jpeg
+Wed, 04 May 2016 13:02:46 train.py[line:35] INFO get features : ./images/1/17.jpeg
+Wed, 04 May 2016 13:02:54 train.py[line:35] INFO get features : ./images/1/195.jpeg
+Wed, 04 May 2016 13:03:03 train.py[line:35] INFO get features : ./images/1/282.jpeg
+Wed, 04 May 2016 13:03:11 train.py[line:35] INFO get features : ./images/1/188.jpeg
+Wed, 04 May 2016 13:03:19 train.py[line:35] INFO get features : ./images/1/249.jpeg
+Wed, 04 May 2016 13:03:28 train.py[line:35] INFO get features : ./images/1/250.jpeg
+Wed, 04 May 2016 13:03:36 train.py[line:35] INFO get features : ./images/1/266.jpeg
+Wed, 04 May 2016 13:03:45 train.py[line:35] INFO get features : ./images/1/190.jpeg
+Wed, 04 May 2016 13:03:53 train.py[line:35] INFO get features : ./images/1/202.jpeg
+Wed, 04 May 2016 13:04:02 train.py[line:35] INFO get features : ./images/1/7.jpeg
+Wed, 04 May 2016 13:04:10 train.py[line:35] INFO get features : ./images/1/4.jpg
+Wed, 04 May 2016 13:04:18 train.py[line:35] INFO get features : ./images/1/14.jpeg
+Wed, 04 May 2016 13:04:27 train.py[line:35] INFO get features : ./images/1/259.jpeg
+Wed, 04 May 2016 13:04:35 train.py[line:35] INFO get features : ./images/1/258.jpeg
+Wed, 04 May 2016 13:04:43 train.py[line:35] INFO get features : ./images/1/205.jpeg
+Wed, 04 May 2016 13:04:52 train.py[line:35] INFO get features : ./images/1/252.jpeg
+Wed, 04 May 2016 13:05:00 train.py[line:35] INFO get features : ./images/1/254.jpeg
+Wed, 04 May 2016 13:05:09 train.py[line:35] INFO get features : ./images/1/182.jpeg
+Wed, 04 May 2016 13:05:17 train.py[line:35] INFO get features : ./images/3/134.jpeg
+Wed, 04 May 2016 13:05:25 train.py[line:35] INFO get features : ./images/3/124.jpeg
+Wed, 04 May 2016 13:05:34 train.py[line:35] INFO get features : ./images/3/phone 003.JPG
+Wed, 04 May 2016 13:05:42 train.py[line:35] INFO get features : ./images/3/220.jpeg
+Wed, 04 May 2016 13:05:51 train.py[line:35] INFO get features : ./images/3/phone 177.JPG
+Wed, 04 May 2016 13:05:59 train.py[line:35] INFO get features : ./images/3/sunny4.jpg
+Wed, 04 May 2016 13:06:08 train.py[line:35] INFO get features : ./images/3/phone 125.JPG
+Wed, 04 May 2016 13:06:16 train.py[line:35] INFO get features : ./images/3/157.jpeg
+Wed, 04 May 2016 13:06:24 train.py[line:35] INFO get features : ./images/3/phone 093.JPG
+Wed, 04 May 2016 13:06:33 train.py[line:35] INFO get features : ./images/3/92.jpeg
+Wed, 04 May 2016 13:06:41 train.py[line:35] INFO get features : ./images/3/151.jpeg
+Wed, 04 May 2016 13:06:50 train.py[line:35] INFO get features : ./images/3/156.jpeg
+Wed, 04 May 2016 13:06:58 train.py[line:35] INFO get features : ./images/3/553.jpeg
+Wed, 04 May 2016 13:07:07 train.py[line:35] INFO get features : ./images/3/36.jpeg
+Wed, 04 May 2016 13:07:15 train.py[line:35] INFO get features : ./images/3/98.jpeg
+Wed, 04 May 2016 13:07:23 train.py[line:35] INFO get features : ./images/3/127.jpeg
+Wed, 04 May 2016 13:07:32 train.py[line:35] INFO get features : ./images/3/212.jpeg
+Wed, 04 May 2016 13:07:40 train.py[line:35] INFO get features : ./images/3/271.jpeg
+Wed, 04 May 2016 13:07:49 train.py[line:35] INFO get features : ./images/3/54.jpeg
+Wed, 04 May 2016 13:07:57 train.py[line:35] INFO get features : ./images/3/phone 180.JPG
+Wed, 04 May 2016 13:08:06 train.py[line:35] INFO get features : ./images/3/129.jpeg
+Wed, 04 May 2016 13:08:14 train.py[line:35] INFO get features : ./images/3/phone 144.JPG
+Wed, 04 May 2016 13:08:23 train.py[line:35] INFO get features : ./images/3/251.jpeg
+Wed, 04 May 2016 13:08:31 train.py[line:35] INFO get features : ./images/3/32.jpeg
+Wed, 04 May 2016 13:08:39 train.py[line:35] INFO get features : ./images/3/phone 123.JPG
+Wed, 04 May 2016 13:08:48 train.py[line:35] INFO get features : ./images/3/phone 205.JPG
+Wed, 04 May 2016 13:08:57 train.py[line:35] INFO get features : ./images/3/139.jpeg
+Wed, 04 May 2016 13:09:05 train.py[line:35] INFO get features : ./images/3/15.jpeg
+Wed, 04 May 2016 13:09:13 train.py[line:35] INFO get features : ./images/3/213.jpeg
+Wed, 04 May 2016 13:09:22 train.py[line:35] INFO get features : ./images/3/sunny3.jpg
+Wed, 04 May 2016 13:09:30 train.py[line:35] INFO get features : ./images/3/phone 036.JPG
+Wed, 04 May 2016 13:09:39 train.py[line:35] INFO get features : ./images/3/phone 088.JPG
+Wed, 04 May 2016 13:09:47 train.py[line:35] INFO get features : ./images/3/77.jpeg
+Wed, 04 May 2016 13:09:56 train.py[line:35] INFO get features : ./images/3/phone 200.JPG
+Wed, 04 May 2016 13:10:04 train.py[line:35] INFO get features : ./images/3/10.jpeg
+Wed, 04 May 2016 13:10:12 train.py[line:35] INFO get features : ./images/3/146.jpeg
+Wed, 04 May 2016 13:10:21 train.py[line:35] INFO get features : ./images/3/123.jpeg
+Wed, 04 May 2016 13:10:29 train.py[line:35] INFO get features : ./images/3/149.jpeg
+Wed, 04 May 2016 13:10:38 train.py[line:35] INFO get features : ./images/3/214.jpeg
+Wed, 04 May 2016 13:10:46 train.py[line:35] INFO get features : ./images/3/218.jpeg
+Wed, 04 May 2016 13:10:54 train.py[line:35] INFO get features : ./images/3/57.jpeg
+Wed, 04 May 2016 13:11:03 train.py[line:35] INFO get features : ./images/3/phone 124.JPG
+Wed, 04 May 2016 13:11:11 train.py[line:35] INFO get features : ./images/3/132.jpeg
+Wed, 04 May 2016 13:11:20 train.py[line:35] INFO get features : ./images/3/136.jpeg
+Wed, 04 May 2016 13:11:28 train.py[line:35] INFO get features : ./images/3/phone 153.JPG
+Wed, 04 May 2016 13:11:37 train.py[line:35] INFO get features : ./images/3/210.jpeg
+Wed, 04 May 2016 13:11:45 train.py[line:35] INFO get features : ./images/3/24.jpeg
+Wed, 04 May 2016 13:11:54 train.py[line:35] INFO get features : ./images/3/99.jpeg
+Wed, 04 May 2016 13:12:02 train.py[line:35] INFO get features : ./images/3/91.jpeg
+Wed, 04 May 2016 13:12:10 train.py[line:35] INFO get features : ./images/3/152.jpeg
+Wed, 04 May 2016 13:12:19 train.py[line:35] INFO get features : ./images/3/phone 199.JPG
+Wed, 04 May 2016 13:12:27 train.py[line:35] INFO get features : ./images/3/260.jpeg
+Wed, 04 May 2016 13:12:36 train.py[line:35] INFO get features : ./images/3/phone 019.JPG
+Wed, 04 May 2016 13:12:44 train.py[line:35] INFO get features : ./images/3/221.jpeg
+Wed, 04 May 2016 13:12:53 train.py[line:35] INFO get features : ./images/3/75.jpeg
+Wed, 04 May 2016 13:13:01 train.py[line:35] INFO get features : ./images/3/phone 098.JPG
+Wed, 04 May 2016 13:13:10 train.py[line:35] INFO get features : ./images/3/phone 043.JPG
+Wed, 04 May 2016 13:13:19 train.py[line:35] INFO get features : ./images/3/phone 221.JPG
+Wed, 04 May 2016 13:13:27 train.py[line:35] INFO get features : ./images/3/phone 198.JPG
+Wed, 04 May 2016 13:13:36 train.py[line:35] INFO get features : ./images/3/154.jpeg
+Wed, 04 May 2016 13:13:44 train.py[line:35] INFO get features : ./images/3/261.jpeg
+Wed, 04 May 2016 13:13:52 train.py[line:35] INFO get features : ./images/3/42.jpeg
+Wed, 04 May 2016 13:14:01 train.py[line:35] INFO get features : ./images/3/61.jpeg
+Wed, 04 May 2016 13:14:09 train.py[line:35] INFO get features : ./images/3/145.jpeg
+Wed, 04 May 2016 13:14:18 train.py[line:35] INFO get features : ./images/3/130.jpeg
+Wed, 04 May 2016 13:14:26 train.py[line:35] INFO get features : ./images/3/125.jpeg
+Wed, 04 May 2016 13:14:34 train.py[line:35] INFO get features : ./images/3/33.jpeg
+Wed, 04 May 2016 13:14:43 train.py[line:35] INFO get features : ./images/3/97.jpeg
+Wed, 04 May 2016 13:14:51 train.py[line:35] INFO get features : ./images/3/147.jpeg
+Wed, 04 May 2016 13:15:00 train.py[line:35] INFO get features : ./images/3/268.jpeg
+Wed, 04 May 2016 13:15:08 train.py[line:35] INFO get features : ./images/3/122.jpeg
+Wed, 04 May 2016 13:15:17 train.py[line:35] INFO get features : ./images/3/144.jpeg
+Wed, 04 May 2016 13:15:25 train.py[line:35] INFO get features : ./images/3/104.jpeg
+Wed, 04 May 2016 13:15:33 train.py[line:35] INFO get features : ./images/3/88.jpeg
+Wed, 04 May 2016 13:15:42 train.py[line:35] INFO get features : ./images/3/131.jpeg
+Wed, 04 May 2016 13:15:50 train.py[line:35] INFO get features : ./images/3/217.jpeg
+Wed, 04 May 2016 13:15:59 train.py[line:35] INFO get features : ./images/3/126.jpeg
+Wed, 04 May 2016 13:16:07 train.py[line:35] INFO get features : ./images/3/105.jpeg
+Wed, 04 May 2016 13:16:16 train.py[line:35] INFO get features : ./images/3/12.jpeg
+Wed, 04 May 2016 13:16:24 train.py[line:35] INFO get features : ./images/3/phone 176.JPG
+Wed, 04 May 2016 13:16:33 train.py[line:35] INFO get features : ./images/3/246.jpeg
+Wed, 04 May 2016 13:16:41 train.py[line:35] INFO get features : ./images/3/219.jpeg
+Wed, 04 May 2016 13:16:50 train.py[line:35] INFO get features : ./images/3/79.jpeg
+Wed, 04 May 2016 13:16:58 train.py[line:35] INFO get features : ./images/3/53.jpeg
+Wed, 04 May 2016 13:17:07 train.py[line:35] INFO get features : ./images/3/262.jpeg
+Wed, 04 May 2016 13:17:15 train.py[line:35] INFO get features : ./images/3/phone 112.JPG
+Wed, 04 May 2016 13:17:24 train.py[line:35] INFO get features : ./images/3/93.jpeg
+Wed, 04 May 2016 13:17:32 train.py[line:35] INFO get features : ./images/3/76.jpeg
+Wed, 04 May 2016 13:17:41 train.py[line:35] INFO get features : ./images/3/107.jpeg
+Wed, 04 May 2016 13:17:49 train.py[line:35] INFO get features : ./images/3/266.jpeg
+Wed, 04 May 2016 13:17:58 train.py[line:35] INFO get features : ./images/3/phone 220.JPG
+Wed, 04 May 2016 13:18:06 train.py[line:35] INFO get features : ./images/3/phone 044.JPG
+Wed, 04 May 2016 13:18:15 train.py[line:35] INFO get features : ./images/3/phone 005.JPG
+Wed, 04 May 2016 13:18:24 train.py[line:35] INFO get features : ./images/3/phone 143.JPG
+Wed, 04 May 2016 13:18:32 train.py[line:35] INFO get features : ./images/3/phone 113.JPG
+Wed, 04 May 2016 13:18:41 train.py[line:35] INFO get features : ./images/3/211.jpeg
+Wed, 04 May 2016 13:18:49 train.py[line:35] INFO get features : ./images/3/106.jpeg
+Wed, 04 May 2016 13:18:58 train.py[line:35] INFO get features : ./images/3/259.jpeg
+Wed, 04 May 2016 13:19:06 train.py[line:35] INFO get features : ./images/3/100.jpeg
+Wed, 04 May 2016 13:19:15 train.py[line:35] INFO get features : ./images/3/153.jpeg
+Wed, 04 May 2016 13:19:23 train.py[line:35] INFO get features : ./images/2/186.jpeg
+Wed, 04 May 2016 13:19:32 train.py[line:35] INFO get features : ./images/2/103.jpeg
+Wed, 04 May 2016 13:19:40 train.py[line:35] INFO get features : ./images/2/31.jpeg
+Wed, 04 May 2016 13:19:49 train.py[line:35] INFO get features : ./images/2/s103.jpeg
+Wed, 04 May 2016 13:19:57 train.py[line:35] INFO get features : ./images/2/ss.jpeg
+Wed, 04 May 2016 13:20:06 train.py[line:35] INFO get features : ./images/2/rain (5).jpg
+Wed, 04 May 2016 13:20:14 train.py[line:35] INFO get features : ./images/2/303.jpeg
+Wed, 04 May 2016 13:20:23 train.py[line:35] INFO get features : ./images/2/101.jpeg
+Wed, 04 May 2016 13:20:31 train.py[line:35] INFO get features : ./images/2/452.jpeg
+Wed, 04 May 2016 13:20:39 train.py[line:35] INFO get features : ./images/2/43.jpeg
+Wed, 04 May 2016 13:20:48 train.py[line:35] INFO get features : ./images/2/92.jpeg
+Wed, 04 May 2016 13:20:56 train.py[line:35] INFO get features : ./images/2/151.jpeg
+Wed, 04 May 2016 13:21:05 train.py[line:35] INFO get features : ./images/2/109.jpeg
+Wed, 04 May 2016 13:21:13 train.py[line:35] INFO get features : ./images/2/441.jpeg
+Wed, 04 May 2016 13:21:22 train.py[line:35] INFO get features : ./images/2/451.jpeg
+Wed, 04 May 2016 13:21:30 train.py[line:35] INFO get features : ./images/2/398.jpeg
+Wed, 04 May 2016 13:21:38 train.py[line:35] INFO get features : ./images/2/311.jpeg
+Wed, 04 May 2016 13:21:47 train.py[line:35] INFO get features : ./images/2/285.jpeg
+Wed, 04 May 2016 13:21:55 train.py[line:35] INFO get features : ./images/2/377.jpeg
+Wed, 04 May 2016 13:22:04 train.py[line:35] INFO get features : ./images/2/rain (4).jpg
+Wed, 04 May 2016 13:22:12 train.py[line:35] INFO get features : ./images/2/161.jpeg
+Wed, 04 May 2016 13:22:20 train.py[line:35] INFO get features : ./images/2/ss63.jpeg
+Wed, 04 May 2016 13:22:29 train.py[line:35] INFO get features : ./images/2/32.jpeg
+Wed, 04 May 2016 13:22:37 train.py[line:35] INFO get features : ./images/2/139.jpeg
+Wed, 04 May 2016 13:22:45 train.py[line:35] INFO get features : ./images/2/69.jpeg
+Wed, 04 May 2016 13:22:54 train.py[line:35] INFO get features : ./images/2/8s3.jpeg
+Wed, 04 May 2016 13:23:02 train.py[line:35] INFO get features : ./images/2/67.jpeg
+Wed, 04 May 2016 13:23:10 train.py[line:35] INFO get features : ./images/2/5.jpeg
+Wed, 04 May 2016 13:23:19 train.py[line:35] INFO get features : ./images/2/165.jpeg
+Wed, 04 May 2016 13:23:27 train.py[line:35] INFO get features : ./images/2/80.jpeg
+Wed, 04 May 2016 13:23:36 train.py[line:35] INFO get features : ./images/2/73.jpeg
+Wed, 04 May 2016 13:23:44 train.py[line:35] INFO get features : ./images/2/184.jpeg
+Wed, 04 May 2016 13:23:52 train.py[line:35] INFO get features : ./images/2/90.jpeg
+Wed, 04 May 2016 13:24:01 train.py[line:35] INFO get features : ./images/2/403.jpeg
+Wed, 04 May 2016 13:24:09 train.py[line:35] INFO get features : ./images/2/146.jpeg
+Wed, 04 May 2016 13:24:17 train.py[line:35] INFO get features : ./images/2/421.jpeg
+Wed, 04 May 2016 13:24:26 train.py[line:35] INFO get features : ./images/2/500.jpeg
+Wed, 04 May 2016 13:24:34 train.py[line:35] INFO get features : ./images/2/177.jpeg
+Wed, 04 May 2016 13:24:43 train.py[line:35] INFO get features : ./images/2/123.jpeg
+Wed, 04 May 2016 13:24:51 train.py[line:35] INFO get features : ./images/2/rain3.jpg
+Wed, 04 May 2016 13:24:59 train.py[line:35] INFO get features : ./images/2/rain (6).jpg
+Wed, 04 May 2016 13:25:08 train.py[line:35] INFO get features : ./images/2/401.jpeg
+Wed, 04 May 2016 13:25:16 train.py[line:35] INFO get features : ./images/2/58.jpeg
+Wed, 04 May 2016 13:25:25 train.py[line:35] INFO get features : ./images/2/464.jpeg
+Wed, 04 May 2016 13:25:33 train.py[line:35] INFO get features : ./images/2/521.jpeg
+Wed, 04 May 2016 13:25:41 train.py[line:35] INFO get features : ./images/2/s94.jpeg
+Wed, 04 May 2016 13:25:50 train.py[line:35] INFO get features : ./images/2/163.jpeg
+Wed, 04 May 2016 13:25:58 train.py[line:35] INFO get features : ./images/2/243.jpeg
+Wed, 04 May 2016 13:26:06 train.py[line:35] INFO get features : ./images/2/372.jpeg
+Wed, 04 May 2016 13:26:15 train.py[line:35] INFO get features : ./images/2/150.jpeg
+Wed, 04 May 2016 13:26:23 train.py[line:35] INFO get features : ./images/2/397.jpeg
+Wed, 04 May 2016 13:26:32 train.py[line:35] INFO get features : ./images/2/221.jpeg
+Wed, 04 May 2016 13:26:41 train.py[line:35] INFO get features : ./images/2/306.jpeg
+Wed, 04 May 2016 13:26:49 train.py[line:35] INFO get features : ./images/2/235.jpeg
+Wed, 04 May 2016 13:26:58 train.py[line:35] INFO get features : ./images/2/111.jpeg
+Wed, 04 May 2016 13:27:06 train.py[line:35] INFO get features : ./images/2/453.jpeg
+Wed, 04 May 2016 13:27:14 train.py[line:35] INFO get features : ./images/2/137.jpeg
+Wed, 04 May 2016 13:27:23 train.py[line:35] INFO get features : ./images/2/365.jpeg
+Wed, 04 May 2016 13:27:31 train.py[line:35] INFO get features : ./images/2/510.jpeg
+Wed, 04 May 2016 13:27:40 train.py[line:35] INFO get features : ./images/2/41.jpeg
+Wed, 04 May 2016 13:27:48 train.py[line:35] INFO get features : ./images/2/42.jpeg
+Wed, 04 May 2016 13:27:57 train.py[line:35] INFO get features : ./images/2/s82.jpeg
+Wed, 04 May 2016 13:28:05 train.py[line:35] INFO get features : ./images/2/405.jpeg
+Wed, 04 May 2016 13:28:14 train.py[line:35] INFO get features : ./images/2/529.jpeg
+Wed, 04 May 2016 13:28:22 train.py[line:35] INFO get features : ./images/2/16.jpeg
+Wed, 04 May 2016 13:28:31 train.py[line:35] INFO get features : ./images/2/1.jpeg
+Wed, 04 May 2016 13:28:39 train.py[line:35] INFO get features : ./images/2/439.jpeg
+Wed, 04 May 2016 13:28:48 train.py[line:35] INFO get features : ./images/2/1s01.jpeg
+Wed, 04 May 2016 13:28:56 train.py[line:35] INFO get features : ./images/2/125.jpeg
+Wed, 04 May 2016 13:29:05 train.py[line:35] INFO get features : ./images/2/rain4.jpg
+Wed, 04 May 2016 13:29:13 train.py[line:35] INFO get features : ./images/2/438.jpeg
+Wed, 04 May 2016 13:29:22 train.py[line:35] INFO get features : ./images/2/429.jpeg
+Wed, 04 May 2016 13:29:30 train.py[line:35] INFO get features : ./images/2/433.jpeg
+Wed, 04 May 2016 13:29:39 train.py[line:35] INFO get features : ./images/2/104.jpeg
+Wed, 04 May 2016 13:29:47 train.py[line:35] INFO get features : ./images/2/88.jpeg
+Wed, 04 May 2016 13:29:56 train.py[line:35] INFO get features : ./images/2/126.jpeg
+Wed, 04 May 2016 13:30:04 train.py[line:35] INFO get features : ./images/2/ss74.jpeg
+Wed, 04 May 2016 13:30:13 train.py[line:35] INFO get features : ./images/2/82.jpeg
+Wed, 04 May 2016 13:30:21 train.py[line:35] INFO get features : ./images/2/183.jpeg
+Wed, 04 May 2016 13:30:30 train.py[line:35] INFO get features : ./images/2/427.jpeg
+Wed, 04 May 2016 13:30:38 train.py[line:35] INFO get features : ./images/2/53.jpeg
+Wed, 04 May 2016 13:30:47 train.py[line:35] INFO get features : ./images/2/489.jpeg
+Wed, 04 May 2016 13:30:55 train.py[line:35] INFO get features : ./images/2/81.jpeg
+Wed, 04 May 2016 13:31:04 train.py[line:35] INFO get features : ./images/2/17.jpeg
+Wed, 04 May 2016 13:31:12 train.py[line:35] INFO get features : ./images/2/34.jpeg
+Wed, 04 May 2016 13:31:21 train.py[line:35] INFO get features : ./images/2/55.jpeg
+Wed, 04 May 2016 13:31:29 train.py[line:35] INFO get features : ./images/2/1s04.jpeg
+Wed, 04 May 2016 13:31:38 train.py[line:35] INFO get features : ./images/2/22.jpeg
+Wed, 04 May 2016 13:31:46 train.py[line:35] INFO get features : ./images/2/516.jpeg
+Wed, 04 May 2016 13:31:55 train.py[line:35] INFO get features : ./images/2/361.jpeg
+Wed, 04 May 2016 13:32:03 train.py[line:35] INFO get features : ./images/2/138.jpeg
+Wed, 04 May 2016 13:32:12 train.py[line:35] INFO get features : ./images/2/362.jpeg
+Wed, 04 May 2016 13:32:20 train.py[line:35] INFO get features : ./images/2/266.jpeg
+Wed, 04 May 2016 13:32:29 train.py[line:35] INFO get features : ./images/2/382.jpeg
+Wed, 04 May 2016 13:32:37 train.py[line:35] INFO get features : ./images/2/110.jpeg
+Wed, 04 May 2016 13:32:46 train.py[line:35] INFO get features : ./images/2/468.jpeg
+Wed, 04 May 2016 13:32:54 train.py[line:35] INFO get features : ./images/2/265.jpeg
+Wed, 04 May 2016 13:33:03 train.py[line:35] INFO get features : ./images/2/rain2.jpg
+Wed, 04 May 2016 13:33:11 train.py[line:35] INFO get features : ./images/2/8.jpeg
+Wed, 04 May 2016 13:33:20 train.py[line:35] INFO get features : ./images/2/448.jpeg
+Wed, 04 May 2016 13:33:28 train.py[line:49] INFO train end .data is saved
+Wed, 04 May 2016 16:07:19 gradient.py[line:22] INFO begin ..
+Wed, 04 May 2016 16:07:19 train.py[line:15] INFO train start ...
+Wed, 04 May 2016 16:07:19 train.py[line:35] INFO get features : ./images/0/134.jpeg
+Wed, 04 May 2016 16:07:27 train.py[line:35] INFO get features : ./images/0/186.jpeg
+Wed, 04 May 2016 16:07:35 train.py[line:35] INFO get features : ./images/0/187.jpeg
+Wed, 04 May 2016 16:07:43 train.py[line:35] INFO get features : ./images/0/288.jpeg
+Wed, 04 May 2016 16:07:52 train.py[line:35] INFO get features : ./images/0/27s4.jpeg
+Wed, 04 May 2016 16:08:00 train.py[line:35] INFO get features : ./images/0/37.jpeg
+Wed, 04 May 2016 16:08:09 train.py[line:35] INFO get features : ./images/0/290.jpeg
+Wed, 04 May 2016 16:08:17 train.py[line:35] INFO get features : ./images/0/31.jpeg
+Wed, 04 May 2016 16:08:25 train.py[line:35] INFO get features : ./images/0/215.jpeg
+Wed, 04 May 2016 16:08:33 train.py[line:35] INFO get features : ./images/0/242.jpeg
+Wed, 04 May 2016 16:08:42 train.py[line:35] INFO get features : ./images/0/20s0.jpeg
+Wed, 04 May 2016 16:08:50 train.py[line:35] INFO get features : ./images/0/164.jpeg
+Wed, 04 May 2016 16:08:58 train.py[line:35] INFO get features : ./images/0/244.jpeg
+Wed, 04 May 2016 16:09:06 train.py[line:35] INFO get features : ./images/0/157.jpeg
+Wed, 04 May 2016 16:09:15 train.py[line:35] INFO get features : ./images/0/248.jpeg
+Wed, 04 May 2016 16:09:23 train.py[line:35] INFO get features : ./images/0/101.jpeg
+Wed, 04 May 2016 16:09:31 train.py[line:35] INFO get features : ./images/0/226.jpeg
+Wed, 04 May 2016 16:09:40 train.py[line:35] INFO get features : ./images/0/92.jpeg
+Wed, 04 May 2016 16:09:48 train.py[line:35] INFO get features : ./images/0/109.jpeg
+Wed, 04 May 2016 16:09:57 train.py[line:35] INFO get features : ./images/0/36.jpeg
+Wed, 04 May 2016 16:10:05 train.py[line:35] INFO get features : ./images/0/127.jpeg
+Wed, 04 May 2016 16:10:13 train.py[line:35] INFO get features : ./images/0/23.jpeg
+Wed, 04 May 2016 16:10:22 train.py[line:35] INFO get features : ./images/0/212.jpeg
+Wed, 04 May 2016 16:10:30 train.py[line:35] INFO get features : ./images/0/285.jpeg
+Wed, 04 May 2016 16:10:38 train.py[line:35] INFO get features : ./images/0/108.jpeg
+Wed, 04 May 2016 16:10:47 train.py[line:35] INFO get features : ./images/0/129.jpeg
+Wed, 04 May 2016 16:10:55 train.py[line:35] INFO get features : ./images/0/289.jpeg
+Wed, 04 May 2016 16:11:03 train.py[line:35] INFO get features : ./images/0/189.jpeg
+Wed, 04 May 2016 16:11:11 train.py[line:35] INFO get features : ./images/0/27.jpeg
+Wed, 04 May 2016 16:11:19 train.py[line:35] INFO get features : ./images/0/251.jpeg
+Wed, 04 May 2016 16:11:28 train.py[line:35] INFO get features : ./images/0/32.jpeg
+Wed, 04 May 2016 16:11:36 train.py[line:35] INFO get features : ./images/0/253.jpeg
+Wed, 04 May 2016 16:11:45 train.py[line:35] INFO get features : ./images/0/196.jpeg
+Wed, 04 May 2016 16:11:53 train.py[line:35] INFO get features : ./images/0/213.jpeg
+Wed, 04 May 2016 16:12:02 train.py[line:35] INFO get features : ./images/0/197.jpeg
+Wed, 04 May 2016 16:12:10 train.py[line:35] INFO get features : ./images/0/158.jpeg
+Wed, 04 May 2016 16:12:19 train.py[line:35] INFO get features : ./images/0/165.jpeg
+Wed, 04 May 2016 16:12:27 train.py[line:35] INFO get features : ./images/0/167.jpeg
+Wed, 04 May 2016 16:12:36 train.py[line:35] INFO get features : ./images/0/39.jpeg
+Wed, 04 May 2016 16:12:44 train.py[line:35] INFO get features : ./images/0/123.jpeg
+Wed, 04 May 2016 16:12:52 train.py[line:35] INFO get features : ./images/0/273.jpeg
+Wed, 04 May 2016 16:13:01 train.py[line:35] INFO get features : ./images/0/218.jpeg
+Wed, 04 May 2016 16:13:09 train.py[line:35] INFO get features : ./images/0/169.jpeg
+Wed, 04 May 2016 16:13:18 train.py[line:35] INFO get features : ./images/0/23s5.jpeg
+Wed, 04 May 2016 16:13:26 train.py[line:35] INFO get features : ./images/0/35.jpeg
+Wed, 04 May 2016 16:13:34 train.py[line:35] INFO get features : ./images/0/222.jpeg
+Wed, 04 May 2016 16:13:42 train.py[line:35] INFO get features : ./images/0/132.jpeg
+Wed, 04 May 2016 16:13:51 train.py[line:35] INFO get features : ./images/0/136.jpeg
+Wed, 04 May 2016 16:13:59 train.py[line:35] INFO get features : ./images/0/160.jpeg
+Wed, 04 May 2016 16:14:07 train.py[line:35] INFO get features : ./images/0/121.jpeg
+Wed, 04 May 2016 16:14:16 train.py[line:35] INFO get features : ./images/0/210.jpeg
+Wed, 04 May 2016 16:14:25 train.py[line:35] INFO get features : ./images/0/99.jpeg
+Wed, 04 May 2016 16:14:34 train.py[line:35] INFO get features : ./images/0/263.jpeg
+Wed, 04 May 2016 16:14:42 train.py[line:35] INFO get features : ./images/0/163.jpeg
+Wed, 04 May 2016 16:14:51 train.py[line:35] INFO get features : ./images/0/256.jpeg
+Wed, 04 May 2016 16:14:59 train.py[line:35] INFO get features : ./images/0/28.jpeg
+Wed, 04 May 2016 16:15:07 train.py[line:35] INFO get features : ./images/0/236.jpeg
+Wed, 04 May 2016 16:15:15 train.py[line:35] INFO get features : ./images/0/221.jpeg
+Wed, 04 May 2016 16:15:24 train.py[line:35] INFO get features : ./images/0/191.jpeg
+Wed, 04 May 2016 16:15:32 train.py[line:35] INFO get features : ./images/0/235.jpeg
+Wed, 04 May 2016 16:15:40 train.py[line:35] INFO get features : ./images/0/111.jpeg
+Wed, 04 May 2016 16:15:48 train.py[line:35] INFO get features : ./images/0/278.jpeg
+Wed, 04 May 2016 16:15:57 train.py[line:35] INFO get features : ./images/0/41.jpeg
+Wed, 04 May 2016 16:16:06 train.py[line:35] INFO get features : ./images/0/192.jpeg
+Wed, 04 May 2016 16:16:14 train.py[line:35] INFO get features : ./images/0/42.jpeg
+Wed, 04 May 2016 16:16:23 train.py[line:35] INFO get features : ./images/0/224.jpeg
+Wed, 04 May 2016 16:16:31 train.py[line:35] INFO get features : ./images/0/40.jpeg
+Wed, 04 May 2016 16:16:40 train.py[line:35] INFO get features : ./images/0/185.jpeg
+Wed, 04 May 2016 16:16:48 train.py[line:35] INFO get features : ./images/0/29.jpeg
+Wed, 04 May 2016 16:16:56 train.py[line:35] INFO get features : ./images/0/199.jpeg
+Wed, 04 May 2016 16:17:05 train.py[line:35] INFO get features : ./images/0/125.jpeg
+Wed, 04 May 2016 16:17:13 train.py[line:35] INFO get features : ./images/0/168.jpeg
+Wed, 04 May 2016 16:17:22 train.py[line:35] INFO get features : ./images/0/198.jpeg
+Wed, 04 May 2016 16:17:31 train.py[line:35] INFO get features : ./images/0/274.jpeg
+Wed, 04 May 2016 16:17:39 train.py[line:35] INFO get features : ./images/0/30.jpeg
+Wed, 04 May 2016 16:17:47 train.py[line:35] INFO get features : ./images/0/27s2.jpeg
+Wed, 04 May 2016 16:17:55 train.py[line:35] INFO get features : ./images/0/223.jpeg
+Wed, 04 May 2016 16:18:04 train.py[line:35] INFO get features : ./images/0/217.jpeg
+Wed, 04 May 2016 16:18:12 train.py[line:35] INFO get features : ./images/0/126.jpeg
+Wed, 04 May 2016 16:18:20 train.py[line:35] INFO get features : ./images/0/193.jpeg
+Wed, 04 May 2016 16:18:28 train.py[line:35] INFO get features : ./images/0/200.jpeg
+Wed, 04 May 2016 16:18:37 train.py[line:35] INFO get features : ./images/0/276.jpeg
+Wed, 04 May 2016 16:18:45 train.py[line:35] INFO get features : ./images/0/287.jpeg
+Wed, 04 May 2016 16:18:53 train.py[line:35] INFO get features : ./images/0/183.jpeg
+Wed, 04 May 2016 16:19:01 train.py[line:35] INFO get features : ./images/0/38.jpeg
+Wed, 04 May 2016 16:19:09 train.py[line:35] INFO get features : ./images/0/272.jpeg
+Wed, 04 May 2016 16:19:18 train.py[line:35] INFO get features : ./images/0/17.jpeg
+Wed, 04 May 2016 16:19:26 train.py[line:35] INFO get features : ./images/0/34.jpeg
+Wed, 04 May 2016 16:19:34 train.py[line:35] INFO get features : ./images/0/195.jpeg
+Wed, 04 May 2016 16:19:42 train.py[line:35] INFO get features : ./images/0/282.jpeg
+Wed, 04 May 2016 16:19:51 train.py[line:35] INFO get features : ./images/0/188.jpeg
+Wed, 04 May 2016 16:19:59 train.py[line:35] INFO get features : ./images/0/107.jpeg
+Wed, 04 May 2016 16:20:07 train.py[line:35] INFO get features : ./images/0/116.jpeg
+Wed, 04 May 2016 16:20:18 train.py[line:35] INFO get features : ./images/0/250.jpeg
+Wed, 04 May 2016 16:20:27 train.py[line:35] INFO get features : ./images/0/267.jpeg
+Wed, 04 May 2016 16:20:36 train.py[line:35] INFO get features : ./images/0/119.jpeg
+Wed, 04 May 2016 16:20:44 train.py[line:35] INFO get features : ./images/0/110.jpeg
+Wed, 04 May 2016 16:20:54 train.py[line:35] INFO get features : ./images/0/240.jpeg
+Wed, 04 May 2016 16:21:02 train.py[line:35] INFO get features : ./images/0/237.jpeg
+Wed, 04 May 2016 16:21:11 train.py[line:35] INFO get features : ./images/0/100.jpeg
+Wed, 04 May 2016 16:21:20 train.py[line:35] INFO get features : ./images/0/117.jpeg
+Wed, 04 May 2016 16:21:29 train.py[line:35] INFO get features : ./images/1/178.jpeg
+Wed, 04 May 2016 16:21:38 train.py[line:35] INFO get features : ./images/1/186.jpeg
+Wed, 04 May 2016 16:21:47 train.py[line:35] INFO get features : ./images/1/187.jpeg
+Wed, 04 May 2016 16:21:55 train.py[line:35] INFO get features : ./images/1/283.jpeg
+Wed, 04 May 2016 16:22:07 train.py[line:35] INFO get features : ./images/1/209.jpeg
+Wed, 04 May 2016 16:22:17 train.py[line:35] INFO get features : ./images/1/31.jpeg
+Wed, 04 May 2016 16:22:25 train.py[line:35] INFO get features : ./images/1/203.jpeg
+Wed, 04 May 2016 16:22:34 train.py[line:35] INFO get features : ./images/1/257.jpeg
+Wed, 04 May 2016 16:22:43 train.py[line:35] INFO get features : ./images/1/12.jpg
+Wed, 04 May 2016 16:22:51 train.py[line:35] INFO get features : ./images/1/244.jpeg
+Wed, 04 May 2016 16:23:00 train.py[line:35] INFO get features : ./images/1/248.jpeg
+Wed, 04 May 2016 16:23:08 train.py[line:35] INFO get features : ./images/1/25.jpeg
+Wed, 04 May 2016 16:23:17 train.py[line:35] INFO get features : ./images/1/298.jpeg
+Wed, 04 May 2016 16:23:26 train.py[line:35] INFO get features : ./images/1/fog1.jpg
+Wed, 04 May 2016 16:23:34 train.py[line:35] INFO get features : ./images/1/23.jpeg
+Wed, 04 May 2016 16:23:43 train.py[line:35] INFO get features : ./images/1/270.jpeg
+Wed, 04 May 2016 16:23:51 train.py[line:35] INFO get features : ./images/1/181.jpeg
+Wed, 04 May 2016 16:24:00 train.py[line:35] INFO get features : ./images/1/271.jpeg
+Wed, 04 May 2016 16:24:08 train.py[line:35] INFO get features : ./images/1/175.jpeg
+Wed, 04 May 2016 16:24:20 train.py[line:35] INFO get features : ./images/1/279.jpeg
+Wed, 04 May 2016 16:24:30 train.py[line:35] INFO get features : ./images/1/189.jpeg
+Wed, 04 May 2016 16:24:38 train.py[line:35] INFO get features : ./images/1/269.jpeg
+Wed, 04 May 2016 16:24:49 train.py[line:35] INFO get features : ./images/1/251.jpeg
+Wed, 04 May 2016 16:24:58 train.py[line:35] INFO get features : ./images/1/32.jpeg
+Wed, 04 May 2016 16:25:07 train.py[line:35] INFO get features : ./images/1/21.jpeg
+Wed, 04 May 2016 16:25:15 train.py[line:35] INFO get features : ./images/1/fog16.jpg
+Wed, 04 May 2016 16:25:24 train.py[line:35] INFO get features : ./images/1/5.jpg
+Wed, 04 May 2016 16:25:32 train.py[line:35] INFO get features : ./images/1/281.jpeg
+Wed, 04 May 2016 16:25:42 train.py[line:35] INFO get features : ./images/1/253.jpeg
+Wed, 04 May 2016 16:25:51 train.py[line:35] INFO get features : ./images/1/196.jpeg
+Wed, 04 May 2016 16:26:00 train.py[line:35] INFO get features : ./images/1/275.jpeg
+Wed, 04 May 2016 16:26:09 train.py[line:35] INFO get features : ./images/1/fog2.jpg
+Wed, 04 May 2016 16:26:18 train.py[line:35] INFO get features : ./images/1/11.jpg
+Wed, 04 May 2016 16:26:26 train.py[line:35] INFO get features : ./images/1/184.jpeg
+Wed, 04 May 2016 16:26:35 train.py[line:35] INFO get features : ./images/1/194.jpeg
+Wed, 04 May 2016 16:26:49 train.py[line:35] INFO get features : ./images/1/225.jpeg
+Wed, 04 May 2016 16:26:58 train.py[line:35] INFO get features : ./images/1/10.jpeg
+Wed, 04 May 2016 16:27:07 train.py[line:35] INFO get features : ./images/1/fog9.jpg
+Wed, 04 May 2016 16:27:15 train.py[line:35] INFO get features : ./images/1/177.jpeg
+Wed, 04 May 2016 16:27:24 train.py[line:35] INFO get features : ./images/1/277.jpeg
+Wed, 04 May 2016 16:27:33 train.py[line:35] INFO get features : ./images/1/273.jpeg
+Wed, 04 May 2016 16:27:42 train.py[line:35] INFO get features : ./images/1/fog10.jpg
+Wed, 04 May 2016 16:27:51 train.py[line:35] INFO get features : ./images/1/24.jpeg
+Wed, 04 May 2016 16:28:01 train.py[line:35] INFO get features : ./images/1/28.jpeg
+Wed, 04 May 2016 16:28:10 train.py[line:35] INFO get features : ./images/1/174.jpeg
+Wed, 04 May 2016 16:28:20 train.py[line:35] INFO get features : ./images/1/236.jpeg
+Wed, 04 May 2016 16:28:28 train.py[line:35] INFO get features : ./images/1/19.jpeg
+Wed, 04 May 2016 16:28:37 train.py[line:35] INFO get features : ./images/1/fog17.jpg
+Wed, 04 May 2016 16:28:45 train.py[line:35] INFO get features : ./images/1/191.jpeg
+Wed, 04 May 2016 16:28:54 train.py[line:35] INFO get features : ./images/1/10.jpg
+Wed, 04 May 2016 16:29:02 train.py[line:35] INFO get features : ./images/1/235.jpeg
+Wed, 04 May 2016 16:29:11 train.py[line:35] INFO get features : ./images/1/9.jpeg
+Wed, 04 May 2016 16:29:20 train.py[line:35] INFO get features : ./images/1/192.jpeg
+Wed, 04 May 2016 16:29:28 train.py[line:35] INFO get features : ./images/1/261.jpeg
+Wed, 04 May 2016 16:29:37 train.py[line:35] INFO get features : ./images/1/224.jpeg
+Wed, 04 May 2016 16:29:45 train.py[line:35] INFO get features : ./images/1/6.jpg
+Wed, 04 May 2016 16:29:54 train.py[line:35] INFO get features : ./images/1/18.jpeg
+Wed, 04 May 2016 16:30:02 train.py[line:35] INFO get features : ./images/1/255.jpeg
+Wed, 04 May 2016 16:30:11 train.py[line:35] INFO get features : ./images/1/185.jpeg
+Wed, 04 May 2016 16:30:20 train.py[line:35] INFO get features : ./images/1/201.jpeg
+Wed, 04 May 2016 16:30:28 train.py[line:35] INFO get features : ./images/1/16.jpeg
+Wed, 04 May 2016 16:30:37 train.py[line:35] INFO get features : ./images/1/29.jpeg
+Wed, 04 May 2016 16:30:46 train.py[line:35] INFO get features : ./images/1/208.jpeg
+Wed, 04 May 2016 16:30:54 train.py[line:35] INFO get features : ./images/1/199.jpeg
+Wed, 04 May 2016 16:31:04 train.py[line:35] INFO get features : ./images/1/9.jpg
+Wed, 04 May 2016 16:31:15 train.py[line:35] INFO get features : ./images/1/268.jpeg
+Wed, 04 May 2016 16:31:25 train.py[line:35] INFO get features : ./images/1/274.jpeg
+Wed, 04 May 2016 16:31:39 train.py[line:35] INFO get features : ./images/1/280.jpeg
+Wed, 04 May 2016 16:31:48 train.py[line:35] INFO get features : ./images/1/11.jpeg
+Wed, 04 May 2016 16:31:57 train.py[line:35] INFO get features : ./images/1/180.jpeg
+Wed, 04 May 2016 16:32:06 train.py[line:35] INFO get features : ./images/1/30.jpeg
+Wed, 04 May 2016 16:32:14 train.py[line:35] INFO get features : ./images/1/8.jpg
+Wed, 04 May 2016 16:32:23 train.py[line:35] INFO get features : ./images/1/20.jpeg
+Wed, 04 May 2016 16:32:31 train.py[line:35] INFO get features : ./images/1/246.jpeg
+Wed, 04 May 2016 16:32:40 train.py[line:35] INFO get features : ./images/1/7.jpg
+Wed, 04 May 2016 16:32:50 train.py[line:35] INFO get features : ./images/1/299.jpeg
+Wed, 04 May 2016 16:32:59 train.py[line:35] INFO get features : ./images/1/179.jpeg
+Wed, 04 May 2016 16:33:07 train.py[line:35] INFO get features : ./images/1/207.jpeg
+Wed, 04 May 2016 16:33:17 train.py[line:35] INFO get features : ./images/1/292.jpeg
+Wed, 04 May 2016 16:33:26 train.py[line:35] INFO get features : ./images/1/262.jpeg
+Wed, 04 May 2016 16:33:34 train.py[line:35] INFO get features : ./images/1/291.jpeg
+Wed, 04 May 2016 16:33:43 train.py[line:35] INFO get features : ./images/1/272.jpeg
+Wed, 04 May 2016 16:33:51 train.py[line:35] INFO get features : ./images/1/17.jpeg
+Wed, 04 May 2016 16:34:01 train.py[line:35] INFO get features : ./images/1/195.jpeg
+Wed, 04 May 2016 16:34:10 train.py[line:35] INFO get features : ./images/1/282.jpeg
+Wed, 04 May 2016 16:34:20 train.py[line:35] INFO get features : ./images/1/188.jpeg
+Wed, 04 May 2016 16:34:29 train.py[line:35] INFO get features : ./images/1/249.jpeg
+Wed, 04 May 2016 16:34:40 train.py[line:35] INFO get features : ./images/1/250.jpeg
+Wed, 04 May 2016 16:34:49 train.py[line:35] INFO get features : ./images/1/266.jpeg
+Wed, 04 May 2016 16:34:59 train.py[line:35] INFO get features : ./images/1/190.jpeg
+Wed, 04 May 2016 16:35:09 train.py[line:35] INFO get features : ./images/1/202.jpeg
+Wed, 04 May 2016 16:35:18 train.py[line:35] INFO get features : ./images/1/7.jpeg
+Wed, 04 May 2016 16:35:28 train.py[line:35] INFO get features : ./images/1/4.jpg
+Wed, 04 May 2016 16:35:38 train.py[line:35] INFO get features : ./images/1/14.jpeg
+Wed, 04 May 2016 16:35:47 train.py[line:35] INFO get features : ./images/1/259.jpeg
+Wed, 04 May 2016 16:35:57 train.py[line:35] INFO get features : ./images/1/258.jpeg
+Wed, 04 May 2016 16:36:06 train.py[line:35] INFO get features : ./images/1/205.jpeg
+Wed, 04 May 2016 16:36:16 train.py[line:35] INFO get features : ./images/1/252.jpeg
+Wed, 04 May 2016 16:36:25 train.py[line:35] INFO get features : ./images/1/254.jpeg
+Wed, 04 May 2016 16:36:34 train.py[line:35] INFO get features : ./images/1/182.jpeg
+Wed, 04 May 2016 16:36:42 train.py[line:35] INFO get features : ./images/3/134.jpeg
+Wed, 04 May 2016 16:36:51 train.py[line:35] INFO get features : ./images/3/124.jpeg
+Wed, 04 May 2016 16:37:00 train.py[line:35] INFO get features : ./images/3/phone 003.JPG
+Wed, 04 May 2016 16:37:08 train.py[line:35] INFO get features : ./images/3/220.jpeg
+Wed, 04 May 2016 16:37:17 train.py[line:35] INFO get features : ./images/3/phone 177.JPG
+Wed, 04 May 2016 16:37:26 train.py[line:35] INFO get features : ./images/3/sunny4.jpg
+Wed, 04 May 2016 16:37:34 train.py[line:35] INFO get features : ./images/3/phone 125.JPG
+Wed, 04 May 2016 16:37:45 train.py[line:35] INFO get features : ./images/3/157.jpeg
+Wed, 04 May 2016 16:37:53 train.py[line:35] INFO get features : ./images/3/phone 093.JPG
+Wed, 04 May 2016 16:38:02 train.py[line:35] INFO get features : ./images/3/92.jpeg
+Wed, 04 May 2016 16:38:11 train.py[line:35] INFO get features : ./images/3/151.jpeg
+Wed, 04 May 2016 16:38:20 train.py[line:35] INFO get features : ./images/3/156.jpeg
+Wed, 04 May 2016 16:38:28 train.py[line:35] INFO get features : ./images/3/553.jpeg
+Wed, 04 May 2016 16:38:37 train.py[line:35] INFO get features : ./images/3/36.jpeg
+Wed, 04 May 2016 16:38:45 train.py[line:35] INFO get features : ./images/3/98.jpeg
+Wed, 04 May 2016 16:38:54 train.py[line:35] INFO get features : ./images/3/127.jpeg
+Wed, 04 May 2016 16:39:03 train.py[line:35] INFO get features : ./images/3/212.jpeg
+Wed, 04 May 2016 16:39:12 train.py[line:35] INFO get features : ./images/3/271.jpeg
+Wed, 04 May 2016 16:39:21 train.py[line:35] INFO get features : ./images/3/54.jpeg
+Wed, 04 May 2016 16:39:30 train.py[line:35] INFO get features : ./images/3/phone 180.JPG
+Wed, 04 May 2016 16:39:39 train.py[line:35] INFO get features : ./images/3/129.jpeg
+Wed, 04 May 2016 16:39:47 train.py[line:35] INFO get features : ./images/3/phone 144.JPG
+Wed, 04 May 2016 16:39:56 train.py[line:35] INFO get features : ./images/3/251.jpeg
+Wed, 04 May 2016 16:40:05 train.py[line:35] INFO get features : ./images/3/32.jpeg
+Wed, 04 May 2016 16:40:13 train.py[line:35] INFO get features : ./images/3/phone 123.JPG
+Wed, 04 May 2016 16:40:22 train.py[line:35] INFO get features : ./images/3/phone 205.JPG
+Wed, 04 May 2016 16:40:31 train.py[line:35] INFO get features : ./images/3/139.jpeg
+Wed, 04 May 2016 16:40:40 train.py[line:35] INFO get features : ./images/3/15.jpeg
+Wed, 04 May 2016 16:40:49 train.py[line:35] INFO get features : ./images/3/213.jpeg
+Wed, 04 May 2016 16:40:58 train.py[line:35] INFO get features : ./images/3/sunny3.jpg
+Wed, 04 May 2016 16:41:08 train.py[line:35] INFO get features : ./images/3/phone 036.JPG
+Wed, 04 May 2016 16:41:18 train.py[line:35] INFO get features : ./images/3/phone 088.JPG
+Wed, 04 May 2016 16:41:27 train.py[line:35] INFO get features : ./images/3/77.jpeg
+Wed, 04 May 2016 16:41:35 train.py[line:35] INFO get features : ./images/3/phone 200.JPG
+Wed, 04 May 2016 16:41:44 train.py[line:35] INFO get features : ./images/3/10.jpeg
+Wed, 04 May 2016 16:41:53 train.py[line:35] INFO get features : ./images/3/146.jpeg
+Wed, 04 May 2016 16:42:01 train.py[line:35] INFO get features : ./images/3/123.jpeg
+Wed, 04 May 2016 16:42:10 train.py[line:35] INFO get features : ./images/3/149.jpeg
+Wed, 04 May 2016 16:42:19 train.py[line:35] INFO get features : ./images/3/214.jpeg
+Wed, 04 May 2016 16:42:27 train.py[line:35] INFO get features : ./images/3/218.jpeg
+Wed, 04 May 2016 16:42:36 train.py[line:35] INFO get features : ./images/3/57.jpeg
+Wed, 04 May 2016 16:42:44 train.py[line:35] INFO get features : ./images/3/phone 124.JPG
+Wed, 04 May 2016 16:42:53 train.py[line:35] INFO get features : ./images/3/132.jpeg
+Wed, 04 May 2016 16:43:02 train.py[line:35] INFO get features : ./images/3/136.jpeg
+Wed, 04 May 2016 16:43:11 train.py[line:35] INFO get features : ./images/3/phone 153.JPG
+Wed, 04 May 2016 16:43:19 train.py[line:35] INFO get features : ./images/3/210.jpeg
+Wed, 04 May 2016 16:43:28 train.py[line:35] INFO get features : ./images/3/24.jpeg
+Wed, 04 May 2016 16:43:36 train.py[line:35] INFO get features : ./images/3/99.jpeg
+Wed, 04 May 2016 16:43:45 train.py[line:35] INFO get features : ./images/3/91.jpeg
+Wed, 04 May 2016 16:43:54 train.py[line:35] INFO get features : ./images/3/152.jpeg
+Wed, 04 May 2016 16:44:02 train.py[line:35] INFO get features : ./images/3/phone 199.JPG
+Wed, 04 May 2016 16:44:13 train.py[line:35] INFO get features : ./images/3/260.jpeg
+Wed, 04 May 2016 16:44:22 train.py[line:35] INFO get features : ./images/3/phone 019.JPG
+Wed, 04 May 2016 16:44:30 train.py[line:35] INFO get features : ./images/3/221.jpeg
+Wed, 04 May 2016 16:44:39 train.py[line:35] INFO get features : ./images/3/75.jpeg
+Wed, 04 May 2016 16:44:52 train.py[line:35] INFO get features : ./images/3/phone 098.JPG
+Wed, 04 May 2016 16:45:06 train.py[line:35] INFO get features : ./images/3/phone 043.JPG
+Wed, 04 May 2016 16:45:17 train.py[line:35] INFO get features : ./images/3/phone 221.JPG
+Wed, 04 May 2016 16:45:25 train.py[line:35] INFO get features : ./images/3/phone 198.JPG
+Wed, 04 May 2016 16:45:34 train.py[line:35] INFO get features : ./images/3/154.jpeg
+Wed, 04 May 2016 16:45:43 train.py[line:35] INFO get features : ./images/3/261.jpeg
+Wed, 04 May 2016 16:45:51 train.py[line:35] INFO get features : ./images/3/42.jpeg
+Wed, 04 May 2016 16:46:00 train.py[line:35] INFO get features : ./images/3/61.jpeg
+Wed, 04 May 2016 16:46:08 train.py[line:35] INFO get features : ./images/3/145.jpeg
+Wed, 04 May 2016 16:46:17 train.py[line:35] INFO get features : ./images/3/130.jpeg
+Wed, 04 May 2016 16:46:25 train.py[line:35] INFO get features : ./images/3/125.jpeg
+Wed, 04 May 2016 16:46:34 train.py[line:35] INFO get features : ./images/3/33.jpeg
+Wed, 04 May 2016 16:46:42 train.py[line:35] INFO get features : ./images/3/97.jpeg
+Wed, 04 May 2016 16:46:51 train.py[line:35] INFO get features : ./images/3/147.jpeg
+Wed, 04 May 2016 16:47:00 train.py[line:35] INFO get features : ./images/3/268.jpeg
+Wed, 04 May 2016 16:47:08 train.py[line:35] INFO get features : ./images/3/122.jpeg
+Wed, 04 May 2016 16:47:23 train.py[line:35] INFO get features : ./images/3/144.jpeg
+Wed, 04 May 2016 16:47:31 train.py[line:35] INFO get features : ./images/3/104.jpeg
+Wed, 04 May 2016 16:47:40 train.py[line:35] INFO get features : ./images/3/88.jpeg
+Wed, 04 May 2016 16:47:48 train.py[line:35] INFO get features : ./images/3/131.jpeg
+Wed, 04 May 2016 16:47:57 train.py[line:35] INFO get features : ./images/3/217.jpeg
+Wed, 04 May 2016 16:48:05 train.py[line:35] INFO get features : ./images/3/126.jpeg
+Wed, 04 May 2016 16:48:14 train.py[line:35] INFO get features : ./images/3/105.jpeg
+Wed, 04 May 2016 16:48:23 train.py[line:35] INFO get features : ./images/3/12.jpeg
+Wed, 04 May 2016 16:48:31 train.py[line:35] INFO get features : ./images/3/phone 176.JPG
+Wed, 04 May 2016 16:48:40 train.py[line:35] INFO get features : ./images/3/246.jpeg
+Wed, 04 May 2016 16:48:48 train.py[line:35] INFO get features : ./images/3/219.jpeg
+Wed, 04 May 2016 16:48:57 train.py[line:35] INFO get features : ./images/3/79.jpeg
+Wed, 04 May 2016 16:49:05 train.py[line:35] INFO get features : ./images/3/53.jpeg
+Wed, 04 May 2016 16:49:14 train.py[line:35] INFO get features : ./images/3/262.jpeg
+Wed, 04 May 2016 16:49:23 train.py[line:35] INFO get features : ./images/3/phone 112.JPG
+Wed, 04 May 2016 16:49:32 train.py[line:35] INFO get features : ./images/3/93.jpeg
+Wed, 04 May 2016 16:49:42 train.py[line:35] INFO get features : ./images/3/76.jpeg
+Wed, 04 May 2016 16:49:50 train.py[line:35] INFO get features : ./images/3/107.jpeg
+Wed, 04 May 2016 16:49:59 train.py[line:35] INFO get features : ./images/3/266.jpeg
+Wed, 04 May 2016 16:50:07 train.py[line:35] INFO get features : ./images/3/phone 220.JPG
+Wed, 04 May 2016 16:50:18 train.py[line:35] INFO get features : ./images/3/phone 044.JPG
+Wed, 04 May 2016 16:50:27 train.py[line:35] INFO get features : ./images/3/phone 005.JPG
+Wed, 04 May 2016 16:50:36 train.py[line:35] INFO get features : ./images/3/phone 143.JPG
+Wed, 04 May 2016 16:50:45 train.py[line:35] INFO get features : ./images/3/phone 113.JPG
+Wed, 04 May 2016 16:50:53 train.py[line:35] INFO get features : ./images/3/211.jpeg
+Wed, 04 May 2016 16:51:02 train.py[line:35] INFO get features : ./images/3/106.jpeg
+Wed, 04 May 2016 16:51:10 train.py[line:35] INFO get features : ./images/3/259.jpeg
+Wed, 04 May 2016 16:51:19 train.py[line:35] INFO get features : ./images/3/100.jpeg
+Wed, 04 May 2016 16:51:28 train.py[line:35] INFO get features : ./images/3/153.jpeg
+Wed, 04 May 2016 16:51:36 train.py[line:35] INFO get features : ./images/2/186.jpeg
+Wed, 04 May 2016 16:51:45 train.py[line:35] INFO get features : ./images/2/103.jpeg
+Wed, 04 May 2016 16:51:53 train.py[line:35] INFO get features : ./images/2/31.jpeg
+Wed, 04 May 2016 16:52:02 train.py[line:35] INFO get features : ./images/2/s103.jpeg
+Wed, 04 May 2016 16:52:10 train.py[line:35] INFO get features : ./images/2/ss.jpeg
+Wed, 04 May 2016 16:52:19 train.py[line:35] INFO get features : ./images/2/rain (5).jpg
+Wed, 04 May 2016 16:52:28 train.py[line:35] INFO get features : ./images/2/303.jpeg
+Wed, 04 May 2016 16:52:36 train.py[line:35] INFO get features : ./images/2/101.jpeg
+Wed, 04 May 2016 16:52:45 train.py[line:35] INFO get features : ./images/2/452.jpeg
+Wed, 04 May 2016 16:52:53 train.py[line:35] INFO get features : ./images/2/43.jpeg
+Wed, 04 May 2016 16:53:02 train.py[line:35] INFO get features : ./images/2/92.jpeg
+Wed, 04 May 2016 16:53:11 train.py[line:35] INFO get features : ./images/2/151.jpeg
+Wed, 04 May 2016 16:53:20 train.py[line:35] INFO get features : ./images/2/109.jpeg
+Wed, 04 May 2016 16:53:28 train.py[line:35] INFO get features : ./images/2/441.jpeg
+Wed, 04 May 2016 16:53:37 train.py[line:35] INFO get features : ./images/2/451.jpeg
+Wed, 04 May 2016 16:53:45 train.py[line:35] INFO get features : ./images/2/398.jpeg
+Wed, 04 May 2016 16:53:54 train.py[line:35] INFO get features : ./images/2/311.jpeg
+Wed, 04 May 2016 16:54:02 train.py[line:35] INFO get features : ./images/2/285.jpeg
+Wed, 04 May 2016 16:54:11 train.py[line:35] INFO get features : ./images/2/377.jpeg
+Wed, 04 May 2016 16:54:22 train.py[line:35] INFO get features : ./images/2/rain (4).jpg
+Wed, 04 May 2016 16:54:35 train.py[line:35] INFO get features : ./images/2/161.jpeg
+Wed, 04 May 2016 16:54:49 train.py[line:35] INFO get features : ./images/2/ss63.jpeg
+Wed, 04 May 2016 16:54:59 train.py[line:35] INFO get features : ./images/2/32.jpeg
+Wed, 04 May 2016 16:55:08 train.py[line:35] INFO get features : ./images/2/139.jpeg
+Wed, 04 May 2016 16:55:16 train.py[line:35] INFO get features : ./images/2/69.jpeg
+Wed, 04 May 2016 16:55:25 train.py[line:35] INFO get features : ./images/2/8s3.jpeg
+Wed, 04 May 2016 16:55:33 train.py[line:35] INFO get features : ./images/2/67.jpeg
+Wed, 04 May 2016 16:55:42 train.py[line:35] INFO get features : ./images/2/5.jpeg
+Wed, 04 May 2016 16:55:50 train.py[line:35] INFO get features : ./images/2/165.jpeg
+Wed, 04 May 2016 16:55:59 train.py[line:35] INFO get features : ./images/2/80.jpeg
+Wed, 04 May 2016 16:56:08 train.py[line:35] INFO get features : ./images/2/73.jpeg
+Wed, 04 May 2016 16:56:16 train.py[line:35] INFO get features : ./images/2/184.jpeg
+Wed, 04 May 2016 16:56:25 train.py[line:35] INFO get features : ./images/2/90.jpeg
+Wed, 04 May 2016 16:56:38 train.py[line:35] INFO get features : ./images/2/403.jpeg
+Wed, 04 May 2016 16:56:48 train.py[line:35] INFO get features : ./images/2/146.jpeg
+Wed, 04 May 2016 16:56:56 train.py[line:35] INFO get features : ./images/2/421.jpeg
+Wed, 04 May 2016 16:57:05 train.py[line:35] INFO get features : ./images/2/500.jpeg
+Wed, 04 May 2016 16:57:13 train.py[line:35] INFO get features : ./images/2/177.jpeg
+Wed, 04 May 2016 16:57:22 train.py[line:35] INFO get features : ./images/2/123.jpeg
+Wed, 04 May 2016 16:57:31 train.py[line:35] INFO get features : ./images/2/rain3.jpg
+Wed, 04 May 2016 16:57:39 train.py[line:35] INFO get features : ./images/2/rain (6).jpg
+Wed, 04 May 2016 16:57:48 train.py[line:35] INFO get features : ./images/2/401.jpeg
+Wed, 04 May 2016 16:58:02 train.py[line:35] INFO get features : ./images/2/58.jpeg
+Wed, 04 May 2016 16:58:12 train.py[line:35] INFO get features : ./images/2/464.jpeg
+Wed, 04 May 2016 16:58:20 train.py[line:35] INFO get features : ./images/2/521.jpeg
+Wed, 04 May 2016 16:58:29 train.py[line:35] INFO get features : ./images/2/s94.jpeg
+Wed, 04 May 2016 16:58:38 train.py[line:35] INFO get features : ./images/2/163.jpeg
+Wed, 04 May 2016 16:58:46 train.py[line:35] INFO get features : ./images/2/243.jpeg
+Wed, 04 May 2016 16:58:55 train.py[line:35] INFO get features : ./images/2/372.jpeg
+Wed, 04 May 2016 16:59:03 train.py[line:35] INFO get features : ./images/2/150.jpeg
+Wed, 04 May 2016 16:59:12 train.py[line:35] INFO get features : ./images/2/397.jpeg
+Wed, 04 May 2016 16:59:21 train.py[line:35] INFO get features : ./images/2/221.jpeg
+Wed, 04 May 2016 16:59:29 train.py[line:35] INFO get features : ./images/2/306.jpeg
+Wed, 04 May 2016 16:59:38 train.py[line:35] INFO get features : ./images/2/235.jpeg
+Wed, 04 May 2016 16:59:46 train.py[line:35] INFO get features : ./images/2/111.jpeg
+Wed, 04 May 2016 16:59:55 train.py[line:35] INFO get features : ./images/2/453.jpeg
+Wed, 04 May 2016 17:00:03 train.py[line:35] INFO get features : ./images/2/137.jpeg
+Wed, 04 May 2016 17:00:12 train.py[line:35] INFO get features : ./images/2/365.jpeg
+Wed, 04 May 2016 17:00:21 train.py[line:35] INFO get features : ./images/2/510.jpeg
+Wed, 04 May 2016 17:00:29 train.py[line:35] INFO get features : ./images/2/41.jpeg
+Wed, 04 May 2016 17:00:38 train.py[line:35] INFO get features : ./images/2/42.jpeg
+Wed, 04 May 2016 17:00:46 train.py[line:35] INFO get features : ./images/2/s82.jpeg
+Wed, 04 May 2016 17:00:55 train.py[line:35] INFO get features : ./images/2/405.jpeg
+Wed, 04 May 2016 17:01:03 train.py[line:35] INFO get features : ./images/2/529.jpeg
+Wed, 04 May 2016 17:01:12 train.py[line:35] INFO get features : ./images/2/16.jpeg
+Wed, 04 May 2016 17:01:21 train.py[line:35] INFO get features : ./images/2/1.jpeg
+Wed, 04 May 2016 17:01:29 train.py[line:35] INFO get features : ./images/2/439.jpeg
+Wed, 04 May 2016 17:01:38 train.py[line:35] INFO get features : ./images/2/1s01.jpeg
+Wed, 04 May 2016 17:01:47 train.py[line:35] INFO get features : ./images/2/125.jpeg
+Wed, 04 May 2016 17:01:56 train.py[line:35] INFO get features : ./images/2/rain4.jpg
+Wed, 04 May 2016 17:02:04 train.py[line:35] INFO get features : ./images/2/438.jpeg
+Wed, 04 May 2016 17:02:13 train.py[line:35] INFO get features : ./images/2/429.jpeg
+Wed, 04 May 2016 17:02:22 train.py[line:35] INFO get features : ./images/2/433.jpeg
+Wed, 04 May 2016 17:02:30 train.py[line:35] INFO get features : ./images/2/104.jpeg
+Wed, 04 May 2016 17:02:39 train.py[line:35] INFO get features : ./images/2/88.jpeg
+Wed, 04 May 2016 17:02:47 train.py[line:35] INFO get features : ./images/2/126.jpeg
+Wed, 04 May 2016 17:02:56 train.py[line:35] INFO get features : ./images/2/ss74.jpeg
+Wed, 04 May 2016 17:03:04 train.py[line:35] INFO get features : ./images/2/82.jpeg
+Wed, 04 May 2016 17:03:13 train.py[line:35] INFO get features : ./images/2/183.jpeg
+Wed, 04 May 2016 17:03:22 train.py[line:35] INFO get features : ./images/2/427.jpeg
+Wed, 04 May 2016 17:03:30 train.py[line:35] INFO get features : ./images/2/53.jpeg
+Wed, 04 May 2016 17:03:39 train.py[line:35] INFO get features : ./images/2/489.jpeg
+Wed, 04 May 2016 17:03:47 train.py[line:35] INFO get features : ./images/2/81.jpeg
+Wed, 04 May 2016 17:03:56 train.py[line:35] INFO get features : ./images/2/17.jpeg
+Wed, 04 May 2016 17:04:05 train.py[line:35] INFO get features : ./images/2/34.jpeg
+Wed, 04 May 2016 17:04:13 train.py[line:35] INFO get features : ./images/2/55.jpeg
+Wed, 04 May 2016 17:04:22 train.py[line:35] INFO get features : ./images/2/1s04.jpeg
+Wed, 04 May 2016 17:04:30 train.py[line:35] INFO get features : ./images/2/22.jpeg
+Wed, 04 May 2016 17:04:40 train.py[line:35] INFO get features : ./images/2/516.jpeg
+Wed, 04 May 2016 17:04:49 train.py[line:35] INFO get features : ./images/2/361.jpeg
+Wed, 04 May 2016 17:04:59 train.py[line:35] INFO get features : ./images/2/138.jpeg
+Wed, 04 May 2016 17:05:08 train.py[line:35] INFO get features : ./images/2/362.jpeg
+Wed, 04 May 2016 17:05:16 train.py[line:35] INFO get features : ./images/2/266.jpeg
+Wed, 04 May 2016 17:05:25 train.py[line:35] INFO get features : ./images/2/382.jpeg
+Wed, 04 May 2016 17:05:34 train.py[line:35] INFO get features : ./images/2/110.jpeg
+Wed, 04 May 2016 17:05:44 train.py[line:35] INFO get features : ./images/2/468.jpeg
+Wed, 04 May 2016 17:05:53 train.py[line:35] INFO get features : ./images/2/265.jpeg
+Wed, 04 May 2016 17:06:03 train.py[line:35] INFO get features : ./images/2/rain2.jpg
+Wed, 04 May 2016 17:06:18 train.py[line:35] INFO get features : ./images/2/8.jpeg
+Wed, 04 May 2016 17:06:32 train.py[line:35] INFO get features : ./images/2/448.jpeg
+Wed, 04 May 2016 17:06:40 train.py[line:49] INFO train end .data is saved
+Wed, 04 May 2016 17:06:40 test.py[line:15] INFO predict start ...
+Wed, 04 May 2016 17:09:09 test.py[line:35] INFO classify right snow -> snow , total r/s =1.000000, r/s=0.010000
+Wed, 04 May 2016 17:09:17 test.py[line:37] INFO classify wrong snow -> sunny
+Wed, 04 May 2016 17:09:26 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:09:34 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:09:43 test.py[line:35] INFO classify right snow -> snow , total r/s =0.400000, r/s=0.020000
+Wed, 04 May 2016 17:09:52 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:10:00 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:10:09 test.py[line:35] INFO classify right snow -> snow , total r/s =0.375000, r/s=0.030000
+Wed, 04 May 2016 17:10:17 test.py[line:35] INFO classify right snow -> snow , total r/s =0.444444, r/s=0.040000
+Wed, 04 May 2016 17:10:26 test.py[line:35] INFO classify right snow -> snow , total r/s =0.500000, r/s=0.050000
+Wed, 04 May 2016 17:10:35 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:10:46 test.py[line:35] INFO classify right snow -> snow , total r/s =0.500000, r/s=0.060000
+Wed, 04 May 2016 17:10:55 test.py[line:35] INFO classify right snow -> snow , total r/s =0.538462, r/s=0.070000
+Wed, 04 May 2016 17:11:04 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:11:13 test.py[line:35] INFO classify right snow -> snow , total r/s =0.533333, r/s=0.080000
+Wed, 04 May 2016 17:11:21 test.py[line:35] INFO classify right snow -> snow , total r/s =0.562500, r/s=0.090000
+Wed, 04 May 2016 17:11:30 test.py[line:35] INFO classify right snow -> snow , total r/s =0.588235, r/s=0.100000
+Wed, 04 May 2016 17:11:38 test.py[line:35] INFO classify right snow -> snow , total r/s =0.611111, r/s=0.110000
+Wed, 04 May 2016 17:11:47 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:11:55 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:12:04 test.py[line:35] INFO classify right snow -> snow , total r/s =0.571429, r/s=0.120000
+Wed, 04 May 2016 17:12:13 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:12:21 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:12:30 test.py[line:37] INFO classify wrong snow -> sunny
+Wed, 04 May 2016 17:12:38 test.py[line:35] INFO classify right snow -> snow , total r/s =0.520000, r/s=0.130000
+Wed, 04 May 2016 17:12:47 test.py[line:35] INFO classify right snow -> snow , total r/s =0.538462, r/s=0.140000
+Wed, 04 May 2016 17:12:55 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:13:04 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:13:13 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:13:21 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:13:30 test.py[line:35] INFO classify right snow -> snow , total r/s =0.483871, r/s=0.150000
+Wed, 04 May 2016 17:13:38 test.py[line:35] INFO classify right snow -> snow , total r/s =0.500000, r/s=0.160000
+Wed, 04 May 2016 17:13:47 test.py[line:35] INFO classify right snow -> snow , total r/s =0.515152, r/s=0.170000
+Wed, 04 May 2016 17:13:55 test.py[line:35] INFO classify right snow -> snow , total r/s =0.529412, r/s=0.180000
+Wed, 04 May 2016 17:14:04 test.py[line:35] INFO classify right snow -> snow , total r/s =0.542857, r/s=0.190000
+Wed, 04 May 2016 17:14:12 test.py[line:35] INFO classify right snow -> snow , total r/s =0.555556, r/s=0.200000
+Wed, 04 May 2016 17:14:21 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:14:30 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:14:38 test.py[line:35] INFO classify right snow -> snow , total r/s =0.538462, r/s=0.210000
+Wed, 04 May 2016 17:14:47 test.py[line:35] INFO classify right snow -> snow , total r/s =0.550000, r/s=0.220000
+Wed, 04 May 2016 17:14:55 test.py[line:35] INFO classify right snow -> snow , total r/s =0.560976, r/s=0.230000
+Wed, 04 May 2016 17:15:04 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:15:12 test.py[line:35] INFO classify right snow -> snow , total r/s =0.558140, r/s=0.240000
+Wed, 04 May 2016 17:15:21 test.py[line:35] INFO classify right snow -> snow , total r/s =0.568182, r/s=0.250000
+Wed, 04 May 2016 17:15:29 test.py[line:35] INFO classify right snow -> snow , total r/s =0.577778, r/s=0.260000
+Wed, 04 May 2016 17:15:38 test.py[line:35] INFO classify right snow -> snow , total r/s =0.586957, r/s=0.270000
+Wed, 04 May 2016 17:15:47 test.py[line:35] INFO classify right snow -> snow , total r/s =0.595745, r/s=0.280000
+Wed, 04 May 2016 17:15:55 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:16:04 test.py[line:35] INFO classify right snow -> snow , total r/s =0.591837, r/s=0.290000
+Wed, 04 May 2016 17:16:12 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:16:21 test.py[line:35] INFO classify right snow -> snow , total r/s =0.588235, r/s=0.300000
+Wed, 04 May 2016 17:16:29 test.py[line:35] INFO classify right snow -> snow , total r/s =0.596154, r/s=0.310000
+Wed, 04 May 2016 17:16:38 test.py[line:35] INFO classify right snow -> snow , total r/s =0.603774, r/s=0.320000
+Wed, 04 May 2016 17:16:46 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:16:55 test.py[line:35] INFO classify right snow -> snow , total r/s =0.600000, r/s=0.330000
+Wed, 04 May 2016 17:17:03 test.py[line:35] INFO classify right snow -> snow , total r/s =0.607143, r/s=0.340000
+Wed, 04 May 2016 17:17:12 test.py[line:37] INFO classify wrong snow -> sunny
+Wed, 04 May 2016 17:17:21 test.py[line:35] INFO classify right snow -> snow , total r/s =0.603448, r/s=0.350000
+Wed, 04 May 2016 17:17:29 test.py[line:35] INFO classify right snow -> snow , total r/s =0.610169, r/s=0.360000
+Wed, 04 May 2016 17:17:38 test.py[line:37] INFO classify wrong snow -> sunny
+Wed, 04 May 2016 17:17:46 test.py[line:35] INFO classify right snow -> snow , total r/s =0.606557, r/s=0.370000
+Wed, 04 May 2016 17:17:55 test.py[line:35] INFO classify right snow -> snow , total r/s =0.612903, r/s=0.380000
+Wed, 04 May 2016 17:18:05 test.py[line:35] INFO classify right snow -> snow , total r/s =0.619048, r/s=0.390000
+Wed, 04 May 2016 17:18:18 test.py[line:35] INFO classify right snow -> snow , total r/s =0.625000, r/s=0.400000
+Wed, 04 May 2016 17:18:27 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:18:36 test.py[line:35] INFO classify right snow -> snow , total r/s =0.621212, r/s=0.410000
+Wed, 04 May 2016 17:18:44 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:18:53 test.py[line:35] INFO classify right snow -> snow , total r/s =0.617647, r/s=0.420000
+Wed, 04 May 2016 17:19:01 test.py[line:35] INFO classify right snow -> snow , total r/s =0.623188, r/s=0.430000
+Wed, 04 May 2016 17:19:10 test.py[line:35] INFO classify right snow -> snow , total r/s =0.628571, r/s=0.440000
+Wed, 04 May 2016 17:19:19 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:19:27 test.py[line:35] INFO classify right snow -> snow , total r/s =0.625000, r/s=0.450000
+Wed, 04 May 2016 17:19:36 test.py[line:35] INFO classify right snow -> snow , total r/s =0.630137, r/s=0.460000
+Wed, 04 May 2016 17:19:44 test.py[line:35] INFO classify right snow -> snow , total r/s =0.635135, r/s=0.470000
+Wed, 04 May 2016 17:19:53 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:20:01 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:20:10 test.py[line:35] INFO classify right snow -> snow , total r/s =0.623377, r/s=0.480000
+Wed, 04 May 2016 17:20:18 test.py[line:37] INFO classify wrong snow -> sunny
+Wed, 04 May 2016 17:20:27 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:20:36 test.py[line:35] INFO classify right snow -> snow , total r/s =0.612500, r/s=0.490000
+Wed, 04 May 2016 17:20:48 test.py[line:35] INFO classify right snow -> snow , total r/s =0.617284, r/s=0.500000
+Wed, 04 May 2016 17:20:59 test.py[line:37] INFO classify wrong snow -> sunny
+Wed, 04 May 2016 17:21:07 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:21:16 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:21:24 test.py[line:37] INFO classify wrong snow -> sunny
+Wed, 04 May 2016 17:21:33 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:21:41 test.py[line:35] INFO classify right snow -> snow , total r/s =0.586207, r/s=0.510000
+Wed, 04 May 2016 17:21:49 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:21:57 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:22:05 test.py[line:35] INFO classify right snow -> snow , total r/s =0.577778, r/s=0.520000
+Wed, 04 May 2016 17:22:13 test.py[line:35] INFO classify right snow -> snow , total r/s =0.582418, r/s=0.530000
+Wed, 04 May 2016 17:22:22 test.py[line:37] INFO classify wrong snow -> rain
+Wed, 04 May 2016 17:22:30 test.py[line:35] INFO classify right snow -> snow , total r/s =0.580645, r/s=0.540000
+Wed, 04 May 2016 17:22:38 test.py[line:35] INFO classify right snow -> snow , total r/s =0.585106, r/s=0.550000
+Wed, 04 May 2016 17:22:47 test.py[line:35] INFO classify right snow -> snow , total r/s =0.589474, r/s=0.560000
+Wed, 04 May 2016 17:22:55 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:23:04 test.py[line:35] INFO classify right snow -> snow , total r/s =0.587629, r/s=0.570000
+Wed, 04 May 2016 17:23:13 test.py[line:35] INFO classify right snow -> snow , total r/s =0.591837, r/s=0.580000
+Wed, 04 May 2016 17:23:22 test.py[line:35] INFO classify right snow -> snow , total r/s =0.595960, r/s=0.590000
+Wed, 04 May 2016 17:23:30 test.py[line:37] INFO classify wrong snow -> fog
+Wed, 04 May 2016 17:23:38 test.py[line:35] INFO classify right fog -> fog , total r/s =0.594059, r/s=0.010000
+Wed, 04 May 2016 17:23:47 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:23:55 test.py[line:35] INFO classify right fog -> fog , total r/s =0.592233, r/s=0.020000
+Wed, 04 May 2016 17:24:03 test.py[line:35] INFO classify right fog -> fog , total r/s =0.596154, r/s=0.030000
+Wed, 04 May 2016 17:24:11 test.py[line:35] INFO classify right fog -> fog , total r/s =0.600000, r/s=0.040000
+Wed, 04 May 2016 17:24:20 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:24:28 test.py[line:35] INFO classify right fog -> fog , total r/s =0.598131, r/s=0.050000
+Wed, 04 May 2016 17:24:36 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:24:44 test.py[line:35] INFO classify right fog -> fog , total r/s =0.596330, r/s=0.060000
+Wed, 04 May 2016 17:24:53 test.py[line:35] INFO classify right fog -> fog , total r/s =0.600000, r/s=0.070000
+Wed, 04 May 2016 17:25:01 test.py[line:35] INFO classify right fog -> fog , total r/s =0.603604, r/s=0.080000
+Wed, 04 May 2016 17:25:09 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:25:17 test.py[line:35] INFO classify right fog -> fog , total r/s =0.601770, r/s=0.090000
+Wed, 04 May 2016 17:25:26 test.py[line:35] INFO classify right fog -> fog , total r/s =0.605263, r/s=0.100000
+Wed, 04 May 2016 17:25:34 test.py[line:35] INFO classify right fog -> fog , total r/s =0.608696, r/s=0.110000
+Wed, 04 May 2016 17:25:42 test.py[line:35] INFO classify right fog -> fog , total r/s =0.612069, r/s=0.120000
+Wed, 04 May 2016 17:25:51 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:25:59 test.py[line:35] INFO classify right fog -> fog , total r/s =0.610169, r/s=0.130000
+Wed, 04 May 2016 17:26:07 test.py[line:35] INFO classify right fog -> fog , total r/s =0.613445, r/s=0.140000
+Wed, 04 May 2016 17:26:15 test.py[line:35] INFO classify right fog -> fog , total r/s =0.616667, r/s=0.150000
+Wed, 04 May 2016 17:26:24 test.py[line:35] INFO classify right fog -> fog , total r/s =0.619835, r/s=0.160000
+Wed, 04 May 2016 17:26:32 test.py[line:35] INFO classify right fog -> fog , total r/s =0.622951, r/s=0.170000
+Wed, 04 May 2016 17:26:40 test.py[line:35] INFO classify right fog -> fog , total r/s =0.626016, r/s=0.180000
+Wed, 04 May 2016 17:26:49 test.py[line:35] INFO classify right fog -> fog , total r/s =0.629032, r/s=0.190000
+Wed, 04 May 2016 17:26:57 test.py[line:35] INFO classify right fog -> fog , total r/s =0.632000, r/s=0.200000
+Wed, 04 May 2016 17:27:05 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:27:14 test.py[line:35] INFO classify right fog -> fog , total r/s =0.629921, r/s=0.210000
+Wed, 04 May 2016 17:27:22 test.py[line:35] INFO classify right fog -> fog , total r/s =0.632812, r/s=0.220000
+Wed, 04 May 2016 17:27:30 test.py[line:35] INFO classify right fog -> fog , total r/s =0.635659, r/s=0.230000
+Wed, 04 May 2016 17:27:39 test.py[line:35] INFO classify right fog -> fog , total r/s =0.638462, r/s=0.240000
+Wed, 04 May 2016 17:27:47 test.py[line:35] INFO classify right fog -> fog , total r/s =0.641221, r/s=0.250000
+Wed, 04 May 2016 17:27:55 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:28:03 test.py[line:35] INFO classify right fog -> fog , total r/s =0.639098, r/s=0.260000
+Wed, 04 May 2016 17:28:12 test.py[line:35] INFO classify right fog -> fog , total r/s =0.641791, r/s=0.270000
+Wed, 04 May 2016 17:28:20 test.py[line:35] INFO classify right fog -> fog , total r/s =0.644444, r/s=0.280000
+Wed, 04 May 2016 17:28:28 test.py[line:35] INFO classify right fog -> fog , total r/s =0.647059, r/s=0.290000
+Wed, 04 May 2016 17:28:37 test.py[line:35] INFO classify right fog -> fog , total r/s =0.649635, r/s=0.300000
+Wed, 04 May 2016 17:28:45 test.py[line:35] INFO classify right fog -> fog , total r/s =0.652174, r/s=0.310000
+Wed, 04 May 2016 17:28:53 test.py[line:35] INFO classify right fog -> fog , total r/s =0.654676, r/s=0.320000
+Wed, 04 May 2016 17:29:02 test.py[line:35] INFO classify right fog -> fog , total r/s =0.657143, r/s=0.330000
+Wed, 04 May 2016 17:29:11 test.py[line:35] INFO classify right fog -> fog , total r/s =0.659574, r/s=0.340000
+Wed, 04 May 2016 17:29:20 test.py[line:35] INFO classify right fog -> fog , total r/s =0.661972, r/s=0.350000
+Wed, 04 May 2016 17:29:28 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:29:36 test.py[line:35] INFO classify right fog -> fog , total r/s =0.659722, r/s=0.360000
+Wed, 04 May 2016 17:29:45 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:29:53 test.py[line:35] INFO classify right fog -> fog , total r/s =0.657534, r/s=0.370000
+Wed, 04 May 2016 17:30:01 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:30:10 test.py[line:35] INFO classify right fog -> fog , total r/s =0.655405, r/s=0.380000
+Wed, 04 May 2016 17:30:18 test.py[line:35] INFO classify right fog -> fog , total r/s =0.657718, r/s=0.390000
+Wed, 04 May 2016 17:30:26 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:30:35 test.py[line:35] INFO classify right fog -> fog , total r/s =0.655629, r/s=0.400000
+Wed, 04 May 2016 17:30:43 test.py[line:35] INFO classify right fog -> fog , total r/s =0.657895, r/s=0.410000
+Wed, 04 May 2016 17:30:51 test.py[line:35] INFO classify right fog -> fog , total r/s =0.660131, r/s=0.420000
+Wed, 04 May 2016 17:30:59 test.py[line:35] INFO classify right fog -> fog , total r/s =0.662338, r/s=0.430000
+Wed, 04 May 2016 17:31:08 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:31:16 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:31:24 test.py[line:35] INFO classify right fog -> fog , total r/s =0.656051, r/s=0.440000
+Wed, 04 May 2016 17:31:33 test.py[line:35] INFO classify right fog -> fog , total r/s =0.658228, r/s=0.450000
+Wed, 04 May 2016 17:31:41 test.py[line:35] INFO classify right fog -> fog , total r/s =0.660377, r/s=0.460000
+Wed, 04 May 2016 17:31:49 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:31:58 test.py[line:35] INFO classify right fog -> fog , total r/s =0.658385, r/s=0.470000
+Wed, 04 May 2016 17:32:06 test.py[line:35] INFO classify right fog -> fog , total r/s =0.660494, r/s=0.480000
+Wed, 04 May 2016 17:32:14 test.py[line:35] INFO classify right fog -> fog , total r/s =0.662577, r/s=0.490000
+Wed, 04 May 2016 17:32:22 test.py[line:35] INFO classify right fog -> fog , total r/s =0.664634, r/s=0.500000
+Wed, 04 May 2016 17:32:31 test.py[line:35] INFO classify right fog -> fog , total r/s =0.666667, r/s=0.510000
+Wed, 04 May 2016 17:32:39 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:32:47 test.py[line:35] INFO classify right fog -> fog , total r/s =0.664671, r/s=0.520000
+Wed, 04 May 2016 17:32:56 test.py[line:35] INFO classify right fog -> fog , total r/s =0.666667, r/s=0.530000
+Wed, 04 May 2016 17:33:04 test.py[line:35] INFO classify right fog -> fog , total r/s =0.668639, r/s=0.540000
+Wed, 04 May 2016 17:33:12 test.py[line:35] INFO classify right fog -> fog , total r/s =0.670588, r/s=0.550000
+Wed, 04 May 2016 17:33:20 test.py[line:35] INFO classify right fog -> fog , total r/s =0.672515, r/s=0.560000
+Wed, 04 May 2016 17:33:28 test.py[line:35] INFO classify right fog -> fog , total r/s =0.674419, r/s=0.570000
+Wed, 04 May 2016 17:33:37 test.py[line:35] INFO classify right fog -> fog , total r/s =0.676301, r/s=0.580000
+Wed, 04 May 2016 17:33:45 test.py[line:35] INFO classify right fog -> fog , total r/s =0.678161, r/s=0.590000
+Wed, 04 May 2016 17:33:53 test.py[line:35] INFO classify right fog -> fog , total r/s =0.680000, r/s=0.600000
+Wed, 04 May 2016 17:34:02 test.py[line:35] INFO classify right fog -> fog , total r/s =0.681818, r/s=0.610000
+Wed, 04 May 2016 17:34:10 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:34:18 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:34:26 test.py[line:35] INFO classify right fog -> fog , total r/s =0.675978, r/s=0.620000
+Wed, 04 May 2016 17:34:34 test.py[line:35] INFO classify right fog -> fog , total r/s =0.677778, r/s=0.630000
+Wed, 04 May 2016 17:34:42 test.py[line:35] INFO classify right fog -> fog , total r/s =0.679558, r/s=0.640000
+Wed, 04 May 2016 17:34:51 test.py[line:35] INFO classify right fog -> fog , total r/s =0.681319, r/s=0.650000
+Wed, 04 May 2016 17:34:59 test.py[line:35] INFO classify right fog -> fog , total r/s =0.683060, r/s=0.660000
+Wed, 04 May 2016 17:35:07 test.py[line:35] INFO classify right fog -> fog , total r/s =0.684783, r/s=0.670000
+Wed, 04 May 2016 17:35:15 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:35:23 test.py[line:35] INFO classify right fog -> fog , total r/s =0.682796, r/s=0.680000
+Wed, 04 May 2016 17:35:31 test.py[line:35] INFO classify right fog -> fog , total r/s =0.684492, r/s=0.690000
+Wed, 04 May 2016 17:35:39 test.py[line:35] INFO classify right fog -> fog , total r/s =0.686170, r/s=0.700000
+Wed, 04 May 2016 17:35:47 test.py[line:35] INFO classify right fog -> fog , total r/s =0.687831, r/s=0.710000
+Wed, 04 May 2016 17:35:55 test.py[line:35] INFO classify right fog -> fog , total r/s =0.689474, r/s=0.720000
+Wed, 04 May 2016 17:36:03 test.py[line:35] INFO classify right fog -> fog , total r/s =0.691099, r/s=0.730000
+Wed, 04 May 2016 17:36:12 test.py[line:35] INFO classify right fog -> fog , total r/s =0.692708, r/s=0.740000
+Wed, 04 May 2016 17:36:20 test.py[line:35] INFO classify right fog -> fog , total r/s =0.694301, r/s=0.750000
+Wed, 04 May 2016 17:36:28 test.py[line:35] INFO classify right fog -> fog , total r/s =0.695876, r/s=0.760000
+Wed, 04 May 2016 17:36:36 test.py[line:35] INFO classify right fog -> fog , total r/s =0.697436, r/s=0.770000
+Wed, 04 May 2016 17:36:44 test.py[line:35] INFO classify right fog -> fog , total r/s =0.698980, r/s=0.780000
+Wed, 04 May 2016 17:36:52 test.py[line:37] INFO classify wrong fog -> rain
+Wed, 04 May 2016 17:37:00 test.py[line:35] INFO classify right fog -> fog , total r/s =0.696970, r/s=0.790000
+Wed, 04 May 2016 17:37:08 test.py[line:37] INFO classify wrong fog -> snow
+Wed, 04 May 2016 17:37:16 test.py[line:35] INFO classify right fog -> fog , total r/s =0.695000, r/s=0.800000
+Wed, 04 May 2016 17:37:24 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:37:32 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:37:41 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:37:49 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.686275, r/s=0.010000
+Wed, 04 May 2016 17:37:57 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:38:05 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:38:13 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:38:21 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:38:29 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.674641, r/s=0.020000
+Wed, 04 May 2016 17:38:37 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.676190, r/s=0.030000
+Wed, 04 May 2016 17:38:46 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:38:54 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.674528, r/s=0.040000
+Wed, 04 May 2016 17:39:02 test.py[line:37] INFO classify wrong sunny -> fog
+Wed, 04 May 2016 17:39:10 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.672897, r/s=0.050000
+Wed, 04 May 2016 17:39:18 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:39:26 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.671296, r/s=0.060000
+Wed, 04 May 2016 17:39:34 test.py[line:37] INFO classify wrong sunny -> fog
+Wed, 04 May 2016 17:39:43 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:39:51 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:39:59 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:40:08 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.660633, r/s=0.070000
+Wed, 04 May 2016 17:40:16 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:40:24 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:40:32 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.656250, r/s=0.080000
+Wed, 04 May 2016 17:40:40 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.657778, r/s=0.090000
+Wed, 04 May 2016 17:40:49 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.659292, r/s=0.100000
+Wed, 04 May 2016 17:40:57 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:41:05 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:41:13 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:41:21 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:41:29 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:41:37 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:41:45 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:41:53 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.641026, r/s=0.110000
+Wed, 04 May 2016 17:42:02 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.642553, r/s=0.120000
+Wed, 04 May 2016 17:42:10 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.644068, r/s=0.130000
+Wed, 04 May 2016 17:42:18 test.py[line:37] INFO classify wrong sunny -> fog
+Wed, 04 May 2016 17:42:26 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:42:34 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:42:42 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:42:50 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:42:58 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.632231, r/s=0.140000
+Wed, 04 May 2016 17:43:07 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.633745, r/s=0.150000
+Wed, 04 May 2016 17:43:15 test.py[line:37] INFO classify wrong sunny -> fog
+Wed, 04 May 2016 17:43:23 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.632653, r/s=0.160000
+Wed, 04 May 2016 17:43:31 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.634146, r/s=0.170000
+Wed, 04 May 2016 17:43:39 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.635628, r/s=0.180000
+Wed, 04 May 2016 17:43:47 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:43:55 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.634538, r/s=0.190000
+Wed, 04 May 2016 17:44:03 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:44:11 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:44:20 test.py[line:37] INFO classify wrong sunny -> fog
+Wed, 04 May 2016 17:44:28 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:44:36 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.625984, r/s=0.200000
+Wed, 04 May 2016 17:44:45 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.627451, r/s=0.210000
+Wed, 04 May 2016 17:44:53 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:45:01 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:45:10 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.624031, r/s=0.220000
+Wed, 04 May 2016 17:45:18 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.625483, r/s=0.230000
+Wed, 04 May 2016 17:45:26 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:45:35 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:45:43 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.622137, r/s=0.240000
+Wed, 04 May 2016 17:45:52 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:46:00 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:46:08 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.618868, r/s=0.250000
+Wed, 04 May 2016 17:46:17 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:46:25 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:46:33 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:46:42 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:46:50 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:46:58 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.608856, r/s=0.260000
+Wed, 04 May 2016 17:47:07 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.610294, r/s=0.270000
+Wed, 04 May 2016 17:47:15 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:47:23 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.609489, r/s=0.280000
+Wed, 04 May 2016 17:47:32 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:47:40 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.608696, r/s=0.290000
+Wed, 04 May 2016 17:47:48 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:47:57 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:48:05 test.py[line:37] INFO classify wrong sunny -> fog
+Wed, 04 May 2016 17:48:14 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:48:22 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:48:31 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:48:39 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:48:48 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:48:56 test.py[line:37] INFO classify wrong sunny -> fog
+Wed, 04 May 2016 17:49:04 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:49:13 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:49:21 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.586806, r/s=0.300000
+Wed, 04 May 2016 17:49:29 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.588235, r/s=0.310000
+Wed, 04 May 2016 17:49:38 test.py[line:37] INFO classify wrong sunny -> rain
+Wed, 04 May 2016 17:49:46 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:49:54 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:50:03 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.583618, r/s=0.320000
+Wed, 04 May 2016 17:50:11 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.585034, r/s=0.330000
+Wed, 04 May 2016 17:50:19 test.py[line:37] INFO classify wrong sunny -> fog
+Wed, 04 May 2016 17:50:28 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.584459, r/s=0.340000
+Wed, 04 May 2016 17:50:36 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:50:44 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.583893, r/s=0.350000
+Wed, 04 May 2016 17:50:53 test.py[line:37] INFO classify wrong sunny -> snow
+Wed, 04 May 2016 17:51:01 test.py[line:35] INFO classify right sunny -> sunny , total r/s =0.583333, r/s=0.360000
+Wed, 04 May 2016 17:51:09 test.py[line:35] INFO classify right rain -> rain , total r/s =0.584718, r/s=0.010000
+Wed, 04 May 2016 17:51:18 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:51:26 test.py[line:35] INFO classify right rain -> rain , total r/s =0.584158, r/s=0.020000
+Wed, 04 May 2016 17:51:34 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:51:43 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:51:51 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:51:59 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:52:08 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 17:52:16 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:52:24 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 17:52:32 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:52:41 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:52:49 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:52:57 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:53:05 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:53:13 test.py[line:35] INFO classify right rain -> rain , total r/s =0.563291, r/s=0.030000
+Wed, 04 May 2016 17:53:21 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:53:30 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 17:53:38 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:53:46 test.py[line:35] INFO classify right rain -> rain , total r/s =0.559375, r/s=0.040000
+Wed, 04 May 2016 17:53:54 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:54:02 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 17:54:10 test.py[line:35] INFO classify right rain -> rain , total r/s =0.557276, r/s=0.050000
+Wed, 04 May 2016 17:54:18 test.py[line:35] INFO classify right rain -> rain , total r/s =0.558642, r/s=0.060000
+Wed, 04 May 2016 17:54:26 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:54:35 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:54:43 test.py[line:35] INFO classify right rain -> rain , total r/s =0.556575, r/s=0.070000
+Wed, 04 May 2016 17:54:51 test.py[line:35] INFO classify right rain -> rain , total r/s =0.557927, r/s=0.080000
+Wed, 04 May 2016 17:54:59 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:55:07 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 17:55:15 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:55:24 test.py[line:35] INFO classify right rain -> rain , total r/s =0.554217, r/s=0.090000
+Wed, 04 May 2016 17:55:32 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:55:40 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:55:48 test.py[line:35] INFO classify right rain -> rain , total r/s =0.552239, r/s=0.100000
+Wed, 04 May 2016 17:55:56 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:56:05 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:56:13 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 17:56:21 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:56:30 test.py[line:35] INFO classify right rain -> rain , total r/s =0.547059, r/s=0.110000
+Wed, 04 May 2016 17:56:38 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:56:46 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:56:55 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 17:57:03 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 17:57:11 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:57:19 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:57:28 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:57:36 test.py[line:35] INFO classify right rain -> rain , total r/s =0.537356, r/s=0.120000
+Wed, 04 May 2016 17:57:44 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:57:53 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:58:01 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 17:58:09 test.py[line:35] INFO classify right rain -> rain , total r/s =0.534091, r/s=0.130000
+Wed, 04 May 2016 17:58:18 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:58:26 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:58:34 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:58:42 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:58:51 test.py[line:35] INFO classify right rain -> rain , total r/s =0.529412, r/s=0.140000
+Wed, 04 May 2016 17:58:59 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:59:07 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:59:16 test.py[line:35] INFO classify right rain -> rain , total r/s =0.527778, r/s=0.150000
+Wed, 04 May 2016 17:59:24 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:59:32 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:59:41 test.py[line:35] INFO classify right rain -> rain , total r/s =0.526171, r/s=0.160000
+Wed, 04 May 2016 17:59:49 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 17:59:57 test.py[line:35] INFO classify right rain -> rain , total r/s =0.526027, r/s=0.170000
+Wed, 04 May 2016 18:00:05 test.py[line:35] INFO classify right rain -> rain , total r/s =0.527322, r/s=0.180000
+Wed, 04 May 2016 18:00:14 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 18:00:22 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:00:30 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 18:00:39 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:00:47 test.py[line:35] INFO classify right rain -> rain , total r/s =0.522911, r/s=0.190000
+Wed, 04 May 2016 18:00:55 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 18:01:04 test.py[line:35] INFO classify right rain -> rain , total r/s =0.522788, r/s=0.200000
+Wed, 04 May 2016 18:01:12 test.py[line:35] INFO classify right rain -> rain , total r/s =0.524064, r/s=0.210000
+Wed, 04 May 2016 18:01:20 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:01:29 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 18:01:37 test.py[line:35] INFO classify right rain -> rain , total r/s =0.522546, r/s=0.220000
+Wed, 04 May 2016 18:01:45 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 18:01:53 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:02:02 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:02:10 test.py[line:35] INFO classify right rain -> rain , total r/s =0.519685, r/s=0.230000
+Wed, 04 May 2016 18:02:18 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:02:26 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:02:35 test.py[line:35] INFO classify right rain -> rain , total r/s =0.518229, r/s=0.240000
+Wed, 04 May 2016 18:02:43 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 18:02:51 test.py[line:35] INFO classify right rain -> rain , total r/s =0.518135, r/s=0.250000
+Wed, 04 May 2016 18:02:59 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 18:03:07 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:03:16 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:03:24 test.py[line:35] INFO classify right rain -> rain , total r/s =0.515385, r/s=0.260000
+Wed, 04 May 2016 18:03:32 test.py[line:35] INFO classify right rain -> rain , total r/s =0.516624, r/s=0.270000
+Wed, 04 May 2016 18:03:40 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 18:03:48 test.py[line:35] INFO classify right rain -> rain , total r/s =0.516539, r/s=0.280000
+Wed, 04 May 2016 18:03:56 test.py[line:37] INFO classify wrong rain -> sunny
+Wed, 04 May 2016 18:04:04 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:04:12 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:04:20 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:04:29 test.py[line:37] INFO classify wrong rain -> snow
+Wed, 04 May 2016 18:04:37 test.py[line:37] INFO classify wrong rain -> fog
+Wed, 04 May 2016 18:04:45 test.py[line:35] INFO classify right rain -> rain , total r/s =0.510000, r/s=0.290000
+Wed, 04 May 2016 18:04:45 test.py[line:40] INFO snow: 0.590000
+Wed, 04 May 2016 18:04:45 test.py[line:40] INFO fog: 0.800000
+Wed, 04 May 2016 18:04:45 test.py[line:40] INFO rain: 0.290000
+Wed, 04 May 2016 18:04:45 test.py[line:40] INFO sunny: 0.360000
+Wed, 04 May 2016 18:04:45 test.py[line:41] INFO all: 0.510000
+Wed, 04 May 2016 18:04:45 gradient.py[line:27] WARNING c = 10, res = 0.51
+Wed, 04 May 2016 18:04:45 train.py[line:15] INFO train start ...
+Wed, 04 May 2016 18:04:45 train.py[line:35] INFO get features : ./images/0/134.jpeg
+Wed, 04 May 2016 18:04:53 train.py[line:35] INFO get features : ./images/0/186.jpeg
+Wed, 04 May 2016 18:05:01 train.py[line:35] INFO get features : ./images/0/187.jpeg
+Wed, 04 May 2016 18:05:09 train.py[line:35] INFO get features : ./images/0/288.jpeg
+Wed, 04 May 2016 18:05:17 train.py[line:35] INFO get features : ./images/0/27s4.jpeg
+Wed, 04 May 2016 18:05:25 train.py[line:35] INFO get features : ./images/0/37.jpeg
+Wed, 04 May 2016 18:05:34 train.py[line:35] INFO get features : ./images/0/290.jpeg
+Wed, 04 May 2016 18:05:42 train.py[line:35] INFO get features : ./images/0/31.jpeg
+Wed, 04 May 2016 18:05:50 train.py[line:35] INFO get features : ./images/0/215.jpeg
+Wed, 04 May 2016 18:05:58 train.py[line:35] INFO get features : ./images/0/242.jpeg
+Wed, 04 May 2016 18:06:06 train.py[line:35] INFO get features : ./images/0/20s0.jpeg
+Wed, 04 May 2016 18:06:14 train.py[line:35] INFO get features : ./images/0/164.jpeg
+Wed, 04 May 2016 18:06:22 train.py[line:35] INFO get features : ./images/0/244.jpeg
+Wed, 04 May 2016 18:06:30 train.py[line:35] INFO get features : ./images/0/157.jpeg
+Wed, 04 May 2016 18:06:39 train.py[line:35] INFO get features : ./images/0/248.jpeg
+Wed, 04 May 2016 18:06:47 train.py[line:35] INFO get features : ./images/0/101.jpeg
+Wed, 04 May 2016 18:06:55 train.py[line:35] INFO get features : ./images/0/226.jpeg
+Wed, 04 May 2016 18:07:03 train.py[line:35] INFO get features : ./images/0/92.jpeg
+Wed, 04 May 2016 18:07:11 train.py[line:35] INFO get features : ./images/0/109.jpeg
+Wed, 04 May 2016 18:07:19 train.py[line:35] INFO get features : ./images/0/36.jpeg
+Wed, 04 May 2016 18:07:27 train.py[line:35] INFO get features : ./images/0/127.jpeg
+Wed, 04 May 2016 18:07:36 train.py[line:35] INFO get features : ./images/0/23.jpeg
+Wed, 04 May 2016 18:07:44 train.py[line:35] INFO get features : ./images/0/212.jpeg
+Wed, 04 May 2016 18:07:52 train.py[line:35] INFO get features : ./images/0/285.jpeg
+Wed, 04 May 2016 18:08:00 train.py[line:35] INFO get features : ./images/0/108.jpeg
+Wed, 04 May 2016 18:08:08 train.py[line:35] INFO get features : ./images/0/129.jpeg
+Wed, 04 May 2016 18:08:16 train.py[line:35] INFO get features : ./images/0/289.jpeg
+Wed, 04 May 2016 18:08:24 train.py[line:35] INFO get features : ./images/0/189.jpeg
+Wed, 04 May 2016 18:08:33 train.py[line:35] INFO get features : ./images/0/27.jpeg
+Wed, 04 May 2016 18:08:41 train.py[line:35] INFO get features : ./images/0/251.jpeg
+Wed, 04 May 2016 18:08:49 train.py[line:35] INFO get features : ./images/0/32.jpeg
+Wed, 04 May 2016 18:08:57 train.py[line:35] INFO get features : ./images/0/253.jpeg
+Wed, 04 May 2016 18:09:05 train.py[line:35] INFO get features : ./images/0/196.jpeg
+Wed, 04 May 2016 18:09:14 train.py[line:35] INFO get features : ./images/0/213.jpeg
+Wed, 04 May 2016 18:09:22 train.py[line:35] INFO get features : ./images/0/197.jpeg
+Wed, 04 May 2016 18:09:30 train.py[line:35] INFO get features : ./images/0/158.jpeg
+Wed, 04 May 2016 18:09:38 train.py[line:35] INFO get features : ./images/0/165.jpeg
+Wed, 04 May 2016 18:09:46 train.py[line:35] INFO get features : ./images/0/167.jpeg
+Wed, 04 May 2016 18:09:55 train.py[line:35] INFO get features : ./images/0/39.jpeg
+Wed, 04 May 2016 18:10:03 train.py[line:35] INFO get features : ./images/0/123.jpeg
+Wed, 04 May 2016 18:10:11 train.py[line:35] INFO get features : ./images/0/273.jpeg
+Wed, 04 May 2016 18:10:19 train.py[line:35] INFO get features : ./images/0/218.jpeg
+Wed, 04 May 2016 18:10:28 train.py[line:35] INFO get features : ./images/0/169.jpeg
+Wed, 04 May 2016 18:10:36 train.py[line:35] INFO get features : ./images/0/23s5.jpeg
+Wed, 04 May 2016 18:10:44 train.py[line:35] INFO get features : ./images/0/35.jpeg
+Wed, 04 May 2016 18:10:52 train.py[line:35] INFO get features : ./images/0/222.jpeg
+Wed, 04 May 2016 18:11:00 train.py[line:35] INFO get features : ./images/0/132.jpeg
+Wed, 04 May 2016 18:11:09 train.py[line:35] INFO get features : ./images/0/136.jpeg
+Wed, 04 May 2016 18:11:17 train.py[line:35] INFO get features : ./images/0/160.jpeg
+Wed, 04 May 2016 18:11:25 train.py[line:35] INFO get features : ./images/0/121.jpeg
+Wed, 04 May 2016 18:11:33 train.py[line:35] INFO get features : ./images/0/210.jpeg
+Wed, 04 May 2016 18:11:41 train.py[line:35] INFO get features : ./images/0/99.jpeg
+Wed, 04 May 2016 18:11:50 train.py[line:35] INFO get features : ./images/0/263.jpeg
+Wed, 04 May 2016 18:11:58 train.py[line:35] INFO get features : ./images/0/163.jpeg
+Wed, 04 May 2016 18:12:06 train.py[line:35] INFO get features : ./images/0/256.jpeg
+Wed, 04 May 2016 18:12:15 train.py[line:35] INFO get features : ./images/0/28.jpeg
+Wed, 04 May 2016 18:12:23 train.py[line:35] INFO get features : ./images/0/236.jpeg
+Wed, 04 May 2016 18:12:31 train.py[line:35] INFO get features : ./images/0/221.jpeg
+Wed, 04 May 2016 18:12:39 train.py[line:35] INFO get features : ./images/0/191.jpeg
+Wed, 04 May 2016 18:12:48 train.py[line:35] INFO get features : ./images/0/235.jpeg
+Wed, 04 May 2016 18:12:56 train.py[line:35] INFO get features : ./images/0/111.jpeg
+Wed, 04 May 2016 18:13:05 train.py[line:35] INFO get features : ./images/0/278.jpeg
+Wed, 04 May 2016 18:13:13 train.py[line:35] INFO get features : ./images/0/41.jpeg
+Wed, 04 May 2016 18:13:21 train.py[line:35] INFO get features : ./images/0/192.jpeg
+Wed, 04 May 2016 18:13:30 train.py[line:35] INFO get features : ./images/0/42.jpeg
+Wed, 04 May 2016 18:13:38 train.py[line:35] INFO get features : ./images/0/224.jpeg
+Wed, 04 May 2016 18:13:46 train.py[line:35] INFO get features : ./images/0/40.jpeg
+Wed, 04 May 2016 18:13:55 train.py[line:35] INFO get features : ./images/0/185.jpeg
+Wed, 04 May 2016 18:14:03 train.py[line:35] INFO get features : ./images/0/29.jpeg
+Wed, 04 May 2016 18:14:11 train.py[line:35] INFO get features : ./images/0/199.jpeg
+Wed, 04 May 2016 18:14:20 train.py[line:35] INFO get features : ./images/0/125.jpeg
+Wed, 04 May 2016 18:14:28 train.py[line:35] INFO get features : ./images/0/168.jpeg
+Wed, 04 May 2016 18:14:36 train.py[line:35] INFO get features : ./images/0/198.jpeg
+Wed, 04 May 2016 18:14:45 train.py[line:35] INFO get features : ./images/0/274.jpeg
+Wed, 04 May 2016 18:14:53 train.py[line:35] INFO get features : ./images/0/30.jpeg
+Wed, 04 May 2016 18:15:01 train.py[line:35] INFO get features : ./images/0/27s2.jpeg
+Wed, 04 May 2016 18:15:10 train.py[line:35] INFO get features : ./images/0/223.jpeg
+Wed, 04 May 2016 18:15:18 train.py[line:35] INFO get features : ./images/0/217.jpeg
+Wed, 04 May 2016 18:15:26 train.py[line:35] INFO get features : ./images/0/126.jpeg
+Wed, 04 May 2016 18:15:35 train.py[line:35] INFO get features : ./images/0/193.jpeg
+Wed, 04 May 2016 18:15:43 train.py[line:35] INFO get features : ./images/0/200.jpeg
+Wed, 04 May 2016 18:15:51 train.py[line:35] INFO get features : ./images/0/276.jpeg
+Wed, 04 May 2016 18:15:59 train.py[line:35] INFO get features : ./images/0/287.jpeg
+Wed, 04 May 2016 18:16:07 train.py[line:35] INFO get features : ./images/0/183.jpeg
+Wed, 04 May 2016 18:16:15 train.py[line:35] INFO get features : ./images/0/38.jpeg
+Wed, 04 May 2016 18:16:24 train.py[line:35] INFO get features : ./images/0/272.jpeg
+Wed, 04 May 2016 18:16:32 train.py[line:35] INFO get features : ./images/0/17.jpeg
+Wed, 04 May 2016 18:16:40 train.py[line:35] INFO get features : ./images/0/34.jpeg
+Wed, 04 May 2016 18:16:48 train.py[line:35] INFO get features : ./images/0/195.jpeg
+Wed, 04 May 2016 18:16:56 train.py[line:35] INFO get features : ./images/0/282.jpeg
+Wed, 04 May 2016 18:17:04 train.py[line:35] INFO get features : ./images/0/188.jpeg
+Wed, 04 May 2016 18:17:12 train.py[line:35] INFO get features : ./images/0/107.jpeg
+Wed, 04 May 2016 18:17:20 train.py[line:35] INFO get features : ./images/0/116.jpeg
+Wed, 04 May 2016 18:17:29 train.py[line:35] INFO get features : ./images/0/250.jpeg
+Wed, 04 May 2016 18:17:37 train.py[line:35] INFO get features : ./images/0/267.jpeg
+Wed, 04 May 2016 18:17:45 train.py[line:35] INFO get features : ./images/0/119.jpeg
+Wed, 04 May 2016 18:17:53 train.py[line:35] INFO get features : ./images/0/110.jpeg
+Wed, 04 May 2016 18:18:01 train.py[line:35] INFO get features : ./images/0/240.jpeg
+Wed, 04 May 2016 18:18:09 train.py[line:35] INFO get features : ./images/0/237.jpeg
+Wed, 04 May 2016 18:18:17 train.py[line:35] INFO get features : ./images/0/100.jpeg
+Wed, 04 May 2016 18:18:25 train.py[line:35] INFO get features : ./images/0/117.jpeg
+Wed, 04 May 2016 18:18:34 train.py[line:35] INFO get features : ./images/1/178.jpeg
+Wed, 04 May 2016 18:18:42 train.py[line:35] INFO get features : ./images/1/186.jpeg
+Wed, 04 May 2016 18:18:50 train.py[line:35] INFO get features : ./images/1/187.jpeg
+Wed, 04 May 2016 18:18:58 train.py[line:35] INFO get features : ./images/1/283.jpeg
+Wed, 04 May 2016 18:19:06 train.py[line:35] INFO get features : ./images/1/209.jpeg
+Wed, 04 May 2016 18:19:14 train.py[line:35] INFO get features : ./images/1/31.jpeg
+Wed, 04 May 2016 18:19:22 train.py[line:35] INFO get features : ./images/1/203.jpeg
+Wed, 04 May 2016 18:19:31 train.py[line:35] INFO get features : ./images/1/257.jpeg
+Wed, 04 May 2016 18:19:39 train.py[line:35] INFO get features : ./images/1/12.jpg
+Wed, 04 May 2016 18:19:47 train.py[line:35] INFO get features : ./images/1/244.jpeg
+Wed, 04 May 2016 18:19:56 train.py[line:35] INFO get features : ./images/1/248.jpeg
+Wed, 04 May 2016 18:20:04 train.py[line:35] INFO get features : ./images/1/25.jpeg
+Wed, 04 May 2016 18:20:12 train.py[line:35] INFO get features : ./images/1/298.jpeg
+Wed, 04 May 2016 18:20:21 train.py[line:35] INFO get features : ./images/1/fog1.jpg
+Wed, 04 May 2016 18:20:29 train.py[line:35] INFO get features : ./images/1/23.jpeg
+Wed, 04 May 2016 18:20:37 train.py[line:35] INFO get features : ./images/1/270.jpeg
+Wed, 04 May 2016 18:20:46 train.py[line:35] INFO get features : ./images/1/181.jpeg
+Wed, 04 May 2016 18:20:54 train.py[line:35] INFO get features : ./images/1/271.jpeg
+Wed, 04 May 2016 18:21:02 train.py[line:35] INFO get features : ./images/1/175.jpeg
+Wed, 04 May 2016 18:21:10 train.py[line:35] INFO get features : ./images/1/279.jpeg
+Wed, 04 May 2016 18:21:19 train.py[line:35] INFO get features : ./images/1/189.jpeg
+Wed, 04 May 2016 18:21:27 train.py[line:35] INFO get features : ./images/1/269.jpeg
+Wed, 04 May 2016 18:21:35 train.py[line:35] INFO get features : ./images/1/251.jpeg
+Wed, 04 May 2016 18:21:44 train.py[line:35] INFO get features : ./images/1/32.jpeg
+Wed, 04 May 2016 18:21:52 train.py[line:35] INFO get features : ./images/1/21.jpeg
+Wed, 04 May 2016 18:22:00 train.py[line:35] INFO get features : ./images/1/fog16.jpg
+Wed, 04 May 2016 18:22:09 train.py[line:35] INFO get features : ./images/1/5.jpg
+Wed, 04 May 2016 18:22:17 train.py[line:35] INFO get features : ./images/1/281.jpeg
+Wed, 04 May 2016 18:22:25 train.py[line:35] INFO get features : ./images/1/253.jpeg
+Wed, 04 May 2016 18:22:34 train.py[line:35] INFO get features : ./images/1/196.jpeg
+Wed, 04 May 2016 18:22:42 train.py[line:35] INFO get features : ./images/1/275.jpeg
+Wed, 04 May 2016 18:22:50 train.py[line:35] INFO get features : ./images/1/fog2.jpg
+Wed, 04 May 2016 18:22:59 train.py[line:35] INFO get features : ./images/1/11.jpg
+Wed, 04 May 2016 18:23:07 train.py[line:35] INFO get features : ./images/1/184.jpeg
+Wed, 04 May 2016 18:23:15 train.py[line:35] INFO get features : ./images/1/194.jpeg
+Wed, 04 May 2016 18:23:23 train.py[line:35] INFO get features : ./images/1/225.jpeg
+Wed, 04 May 2016 18:23:32 train.py[line:35] INFO get features : ./images/1/10.jpeg
+Wed, 04 May 2016 18:23:40 train.py[line:35] INFO get features : ./images/1/fog9.jpg
+Wed, 04 May 2016 18:23:48 train.py[line:35] INFO get features : ./images/1/177.jpeg
+Wed, 04 May 2016 18:23:57 train.py[line:35] INFO get features : ./images/1/277.jpeg
+Wed, 04 May 2016 18:24:05 train.py[line:35] INFO get features : ./images/1/273.jpeg
+Wed, 04 May 2016 18:24:13 train.py[line:35] INFO get features : ./images/1/fog10.jpg
+Wed, 04 May 2016 18:24:22 train.py[line:35] INFO get features : ./images/1/24.jpeg
+Wed, 04 May 2016 18:24:30 train.py[line:35] INFO get features : ./images/1/28.jpeg
+Wed, 04 May 2016 18:24:38 train.py[line:35] INFO get features : ./images/1/174.jpeg
+Wed, 04 May 2016 18:24:46 train.py[line:35] INFO get features : ./images/1/236.jpeg
+Wed, 04 May 2016 18:24:55 train.py[line:35] INFO get features : ./images/1/19.jpeg
+Wed, 04 May 2016 18:25:03 train.py[line:35] INFO get features : ./images/1/fog17.jpg
+Wed, 04 May 2016 18:25:11 train.py[line:35] INFO get features : ./images/1/191.jpeg
+Wed, 04 May 2016 18:25:20 train.py[line:35] INFO get features : ./images/1/10.jpg
+Wed, 04 May 2016 18:25:28 train.py[line:35] INFO get features : ./images/1/235.jpeg
+Wed, 04 May 2016 18:25:36 train.py[line:35] INFO get features : ./images/1/9.jpeg
+Wed, 04 May 2016 18:25:44 train.py[line:35] INFO get features : ./images/1/192.jpeg
+Wed, 04 May 2016 18:25:53 train.py[line:35] INFO get features : ./images/1/261.jpeg
+Wed, 04 May 2016 18:26:01 train.py[line:35] INFO get features : ./images/1/224.jpeg
+Wed, 04 May 2016 18:26:09 train.py[line:35] INFO get features : ./images/1/6.jpg
+Wed, 04 May 2016 18:26:17 train.py[line:35] INFO get features : ./images/1/18.jpeg
+Wed, 04 May 2016 18:26:26 train.py[line:35] INFO get features : ./images/1/255.jpeg
+Wed, 04 May 2016 18:26:34 train.py[line:35] INFO get features : ./images/1/185.jpeg
+Wed, 04 May 2016 18:26:42 train.py[line:35] INFO get features : ./images/1/201.jpeg
+Wed, 04 May 2016 18:26:51 train.py[line:35] INFO get features : ./images/1/16.jpeg
+Wed, 04 May 2016 18:26:59 train.py[line:35] INFO get features : ./images/1/29.jpeg
+Wed, 04 May 2016 18:27:07 train.py[line:35] INFO get features : ./images/1/208.jpeg
+Wed, 04 May 2016 18:27:15 train.py[line:35] INFO get features : ./images/1/199.jpeg

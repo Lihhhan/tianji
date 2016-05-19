@@ -115,6 +115,10 @@ def upload():
     close_db()
 
     #执行任务
+    print 'python weather_classify/app.py ./static/upload/%s ./static/download/%s'%(secure_filename(f.filename), secure_filename(f.filename))
+    #os.popen('python weather_classify/app.py ./static/upload/%s ./static/download/%s'%(secure_filename(f.filename), secure_filename(f.filename)))
+    
+
 
     return redirect(url_for('tasklist')) 
 
