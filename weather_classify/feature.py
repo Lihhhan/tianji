@@ -171,7 +171,7 @@ class feature:
     def svmclassify(self):
         weather_map = ['fog','snow','sunny','rain']
         svm = cv2.SVM()
-        svm.load('svm_data_fog2sunny.dat')
+        svm.load('weather_classify/svm_data_fog2sunny.dat')
         return weather_map[int(svm.predict_all(self.get_features())[0][0])]
 
     #雨雪判断
@@ -195,7 +195,7 @@ class feature:
 
         f = feature.GLCM(res, 99, 99, 64)
         svm = cv2.SVM()
-        svm.load('svm_data_rain2snow.dat')
+        svm.load('weather_classify/svm_data_rain2snow.dat')
         #print np.array(f, dtype = np.float32) 
         rrr = svm.predict_all(np.array([f], dtype = np.float32))
         weather_map = ['snow','fog','rain','sunny']
