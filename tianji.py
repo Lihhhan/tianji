@@ -60,7 +60,7 @@ def login():
             session['username'] = request.form['username']
             return redirect(url_for('tasklist'))
     print error
-    return redirect(url_for('index', error="plase login first!"))
+    return redirect(url_for('index', error=error))
 
 @app.route('/logout')
 def logout():
